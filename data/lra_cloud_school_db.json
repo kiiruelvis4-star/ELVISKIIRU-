@@ -1,0 +1,1827 @@
+{
+  "adminState": {
+    "admin": {
+      "salt": "lra_salt_2026",
+      "codeHash": "ADMIN01",
+      "passHash": "LittleRoses2026"
+    },
+    "loggedIn": true,
+    "theme": "dark",
+    "school": {
+      "name": "Little Roses Academy",
+      "motto": "Much from little",
+      "address": "Along the Nakuru Highway 1KM from Kabazi center",
+      "phone": "0798193966",
+      "email": "admin@littlerosesacademy.sc.ke",
+      "whatsapp": "+254 736 573 436"
+    },
+    "teachers": [
+      {
+        "id": "t_kelvin",
+        "name": "Mr. Kelvin Kiprono",
+        "phone": "0712 345 678",
+        "subjects": [
+          "Mathematics",
+          "Science & Technology"
+        ],
+        "grades": [
+          "Grade 4",
+          "Grade 5",
+          "Grade 6"
+        ],
+        "color": "#7C3AED",
+        "photo": null,
+        "mustChangePw": false,
+        "files": {
+          "t_kelvin|Grade 4|Mathematics|Schemes of work": [
+            {
+              "name": "G4_Maths_Term1_Scheme.pdf",
+              "ext": "PDF"
+            },
+            {
+              "name": "Fractions_Decimals_Notes.docx",
+              "ext": "DOCX"
+            }
+          ],
+          "t_kelvin|Grade 5|Science & Technology|Lesson plans": [
+            {
+              "name": "Water_Cycle_LessonPlan.pdf",
+              "ext": "PDF"
+            }
+          ]
+        }
+      },
+      {
+        "id": "t_grace",
+        "name": "Madam Grace Wanjiku",
+        "phone": "0723 456 789",
+        "subjects": [
+          "English",
+          "Creative Activities",
+          "Creative Arts"
+        ],
+        "grades": [
+          "Grade 1",
+          "Grade 2",
+          "Grade 4"
+        ],
+        "color": "#EC4899",
+        "photo": null,
+        "mustChangePw": false,
+        "files": {
+          "t_grace|Grade 1|English|Lesson notes": [
+            {
+              "name": "Phonics_Sounds_Blends.pdf",
+              "ext": "PDF"
+            }
+          ]
+        }
+      },
+      {
+        "id": "t_ochieng",
+        "name": "Mr. Peter Ochieng",
+        "phone": "0734 567 890",
+        "subjects": [
+          "Kiswahili",
+          "Social Studies"
+        ],
+        "grades": [
+          "Grade 3",
+          "Grade 5",
+          "Grade 6"
+        ],
+        "color": "#2F6BFF",
+        "photo": null,
+        "mustChangePw": true,
+        "files": {
+          "t_ochieng|Grade 6|Social Studies|CATs & assessment": [
+            {
+              "name": "Term1_CAT1_EasternAfrica.pdf",
+              "ext": "PDF"
+            }
+          ]
+        }
+      },
+      {
+        "id": "t_chebet",
+        "name": "Madam Faith Chebet",
+        "phone": "0745 678 901",
+        "subjects": [
+          "Environmental Activities",
+          "CRE",
+          "Agriculture & Nutrition"
+        ],
+        "grades": [
+          "Grade 2",
+          "Grade 3",
+          "Grade 5"
+        ],
+        "color": "#14B8A6",
+        "photo": null,
+        "mustChangePw": false,
+        "files": {}
+      },
+      {
+        "id": "t_elvis",
+        "name": "Tr. Elvis Kiiru",
+        "phone": "0799 112 233",
+        "subjects": [
+          "Mathematics"
+        ],
+        "grades": [
+          "Grade 4"
+        ],
+        "color": "#7C3AED",
+        "photo": null,
+        "mustChangePw": false,
+        "files": {}
+      }
+    ],
+    "learners": [
+      {
+        "id": "l_10",
+        "name": "Joy Wambui",
+        "adm": "LRA/0010",
+        "grade": "Grade 5",
+        "stream": "5 Jasmines",
+        "parentPhone": "0799 001 122",
+        "fatherName": "Francis Ndirangu",
+        "fatherPhone": "0799 001 122",
+        "motherName": "Mary Wambui",
+        "motherPhone": "0799 001 123",
+        "familyId": "FAM-007",
+        "permanentPassword": "JOY710"
+      },
+      {
+        "id": "l_david",
+        "name": "David Mwangi",
+        "adm": "LRA/0023",
+        "grade": "Grade 1",
+        "stream": "1 Roses",
+        "parentPhone": "0712 345 678",
+        "fatherName": "John Mwangi",
+        "fatherPhone": "0712 345 678",
+        "motherName": "Grace Wambui",
+        "motherPhone": "0722 889 900",
+        "familyId": "FAM-003",
+        "permanentPassword": "MWA923"
+      },
+      {
+        "id": "l_01",
+        "name": "Amina Ali Hassan",
+        "adm": "LRA/0001",
+        "grade": "Grade 1",
+        "stream": "1 Roses",
+        "parentPhone": "0711 223 344",
+        "fatherName": "Ali Hassan Mohammed",
+        "fatherPhone": "0711 223 344",
+        "motherName": "Fatuma Hassan",
+        "motherPhone": "0711 998 877",
+        "familyId": "FAM-001",
+        "permanentPassword": "AMI701"
+      },
+      {
+        "id": "l_02",
+        "name": "Brian Kipkoech",
+        "adm": "LRA/0002",
+        "grade": "Grade 1",
+        "stream": "1 Roses",
+        "parentPhone": "0722 334 455",
+        "fatherName": "Paul Kipkoech",
+        "fatherPhone": "0722 334 455",
+        "motherName": "Priscilla Kipkoech",
+        "motherPhone": "0722 334 456",
+        "familyId": "FAM-002",
+        "permanentPassword": "KIP802"
+      },
+      {
+        "id": "l_03",
+        "name": "Chloe Mwangi",
+        "adm": "LRA/0003",
+        "grade": "Grade 2",
+        "stream": "2 Lilies",
+        "parentPhone": "0712 345 678",
+        "fatherName": "John Mwangi",
+        "fatherPhone": "0712 345 678",
+        "motherName": "Grace Wambui",
+        "motherPhone": "0722 889 900",
+        "familyId": "FAM-003",
+        "permanentPassword": "CHL903"
+      },
+      {
+        "id": "l_04",
+        "name": "Daniel Kipchirchir",
+        "adm": "LRA/0004",
+        "grade": "Grade 2",
+        "stream": "2 Lilies",
+        "parentPhone": "0744 556 677",
+        "fatherName": "Ezekiel Kipchirchir",
+        "fatherPhone": "0744 556 677",
+        "motherName": "Beatrice Kipchirchir",
+        "motherPhone": "0744 556 678",
+        "familyId": "FAM-004",
+        "permanentPassword": "DAN604"
+      },
+      {
+        "id": "l_05",
+        "name": "Esther Njeri",
+        "adm": "LRA/0005",
+        "grade": "Grade 3",
+        "stream": "3 Tulips",
+        "parentPhone": "0755 667 788",
+        "fatherName": "Simon Kariuki",
+        "fatherPhone": "0755 667 788",
+        "motherName": "Hannah Njeri",
+        "motherPhone": "0755 667 789",
+        "familyId": "FAM-005",
+        "permanentPassword": "EST705"
+      },
+      {
+        "id": "l_06",
+        "name": "Farouk Hassan",
+        "adm": "LRA/0006",
+        "grade": "Grade 3",
+        "stream": "3 Tulips",
+        "parentPhone": "0711 223 344",
+        "fatherName": "Ali Hassan Mohammed",
+        "fatherPhone": "0711 223 344",
+        "motherName": "Fatuma Hassan",
+        "motherPhone": "0711 998 877",
+        "familyId": "FAM-001",
+        "permanentPassword": "FAR806"
+      },
+      {
+        "id": "l_07",
+        "name": "George Otieno",
+        "adm": "LRA/0007",
+        "grade": "Grade 4",
+        "stream": "4 Orchids",
+        "parentPhone": "0766 778 899",
+        "fatherName": "Dennis Otieno",
+        "fatherPhone": "0766 778 899",
+        "motherName": "Millicent Otieno",
+        "motherPhone": "0766 778 900",
+        "familyId": "FAM-008",
+        "permanentPassword": "GEO907"
+      },
+      {
+        "id": "l_08",
+        "name": "Hilda Chepkemoi",
+        "adm": "LRA/0008",
+        "grade": "Grade 4",
+        "stream": "4 Orchids",
+        "parentPhone": "0777 889 900",
+        "fatherName": "Kiplangat Rotich",
+        "fatherPhone": "0777 889 900",
+        "motherName": "Gladys Chepkemoi",
+        "motherPhone": "0777 889 901",
+        "familyId": "FAM-009",
+        "permanentPassword": "HIL508"
+      },
+      {
+        "id": "l_09",
+        "name": "Ian Kamau",
+        "adm": "LRA/0009",
+        "grade": "Grade 5",
+        "stream": "5 Jasmines",
+        "parentPhone": "0788 990 011",
+        "fatherName": "Stephen Kamau",
+        "fatherPhone": "0788 990 011",
+        "motherName": "Agnes Kamau",
+        "motherPhone": "0788 990 012",
+        "familyId": "FAM-006",
+        "permanentPassword": "IAN609"
+      },
+      {
+        "id": "l_11",
+        "name": "Kevin Mutua",
+        "adm": "LRA/0011",
+        "grade": "Grade 6",
+        "stream": "6 Daisies",
+        "parentPhone": "0712 112 233",
+        "fatherName": "Patrick Mutua",
+        "fatherPhone": "0712 112 233",
+        "motherName": "Catherine Mutua",
+        "motherPhone": "0712 112 234",
+        "familyId": "FAM-010",
+        "permanentPassword": "KEV811"
+      },
+      {
+        "id": "l_12",
+        "name": "Lorna Achieng",
+        "adm": "LRA/0012",
+        "grade": "Grade 6",
+        "stream": "6 Daisies",
+        "parentPhone": "0723 223 344",
+        "fatherName": "Silas Odhiambo",
+        "fatherPhone": "0723 223 344",
+        "motherName": "Rosemary Achieng",
+        "motherPhone": "0723 223 345",
+        "familyId": "FAM-011",
+        "permanentPassword": "LOR912"
+      }
+    ],
+    "families": [
+      {
+        "id": "FAM-001",
+        "head": "Ali Hassan Mohammed",
+        "phone": "0711 223 344",
+        "passHash": "ALDQZT",
+        "fatherName": "Ali Hassan Mohammed",
+        "fatherPhone": "0711 223 344",
+        "motherName": "Fatuma Hassan",
+        "motherPhone": "0711 998 877",
+        "secondaryPhone": "0711 998 877"
+      },
+      {
+        "id": "FAM-002",
+        "head": "Priscilla Kipkoech",
+        "phone": "0722 334 455",
+        "passHash": "PRST2H",
+        "fatherName": "Paul Kipkoech",
+        "fatherPhone": "0722 334 455",
+        "motherName": "Priscilla Kipkoech",
+        "motherPhone": "0722 334 456",
+        "secondaryPhone": "0722 334 456"
+      },
+      {
+        "id": "FAM-003",
+        "head": "John Mwangi",
+        "phone": "0712 345 678",
+        "passHash": "JO3KH8",
+        "fatherName": "John Mwangi",
+        "fatherPhone": "0712 345 678",
+        "motherName": "Grace Wambui",
+        "motherPhone": "0722 889 900",
+        "secondaryPhone": "0722 889 900"
+      },
+      {
+        "id": "FAM-004",
+        "head": "Beatrice Kipchirchir",
+        "phone": "0744 556 677",
+        "passHash": "BESC7B",
+        "fatherName": "Ezekiel Kipchirchir",
+        "fatherPhone": "0744 556 677",
+        "motherName": "Beatrice Kipchirchir",
+        "motherPhone": "0744 556 678",
+        "secondaryPhone": "0744 556 678"
+      },
+      {
+        "id": "FAM-005",
+        "head": "Simon Njeri Kariuki",
+        "phone": "0755 667 788",
+        "passHash": "SI5T92",
+        "fatherName": "Simon Kariuki",
+        "fatherPhone": "0755 667 788",
+        "motherName": "Hannah Njeri",
+        "motherPhone": "0755 667 789",
+        "secondaryPhone": "0755 667 789"
+      },
+      {
+        "id": "FAM-006",
+        "head": "Agnes Kamau",
+        "phone": "0788 990 011",
+        "passHash": "AGFCZ7",
+        "fatherName": "Stephen Kamau",
+        "fatherPhone": "0788 990 011",
+        "motherName": "Agnes Kamau",
+        "motherPhone": "0788 990 012",
+        "secondaryPhone": "0788 990 012"
+      },
+      {
+        "id": "FAM-007",
+        "head": "Francis Ndirangu",
+        "phone": "0799 001 122",
+        "secondaryPhone": "0799 001 123",
+        "fatherRole": "Father",
+        "fatherName": "Francis Ndirangu",
+        "fatherPhone": "0799 001 122",
+        "motherRole": "Mother",
+        "motherName": "Mary Wambui",
+        "motherPhone": "0799 001 123",
+        "passwordReset": false,
+        "passHash": "FRJ34Z"
+      },
+      {
+        "id": "FAM-008",
+        "head": "Dennis Otieno",
+        "phone": "0766 778 899",
+        "secondaryPhone": "0766 778 900",
+        "fatherRole": "Father",
+        "fatherName": "Dennis Otieno",
+        "fatherPhone": "0766 778 899",
+        "motherRole": "Mother",
+        "motherName": "Millicent Otieno",
+        "motherPhone": "0766 778 900",
+        "passwordReset": false,
+        "passHash": "DEPLEP"
+      },
+      {
+        "id": "FAM-009",
+        "head": "Kiplangat Rotich",
+        "phone": "0777 889 900",
+        "secondaryPhone": "0777 889 901",
+        "fatherRole": "Father",
+        "fatherName": "Kiplangat Rotich",
+        "fatherPhone": "0777 889 900",
+        "motherRole": "Mother",
+        "motherName": "Gladys Chepkemoi",
+        "motherPhone": "0777 889 901",
+        "passwordReset": false,
+        "passHash": "KIH96M"
+      },
+      {
+        "id": "FAM-010",
+        "head": "Patrick Mutua",
+        "phone": "0712 112 233",
+        "secondaryPhone": "0712 112 234",
+        "fatherRole": "Father",
+        "fatherName": "Patrick Mutua",
+        "fatherPhone": "0712 112 233",
+        "motherRole": "Mother",
+        "motherName": "Catherine Mutua",
+        "motherPhone": "0712 112 234",
+        "passwordReset": false,
+        "passHash": "PAXU67"
+      },
+      {
+        "id": "FAM-011",
+        "head": "Silas Odhiambo",
+        "phone": "0723 223 344",
+        "secondaryPhone": "0723 223 345",
+        "fatherRole": "Father",
+        "fatherName": "Silas Odhiambo",
+        "fatherPhone": "0723 223 344",
+        "motherRole": "Mother",
+        "motherName": "Rosemary Achieng",
+        "motherPhone": "0723 223 345",
+        "passwordReset": false,
+        "passHash": "SIVGPM"
+      }
+    ],
+    "timetable": {
+      "Mon|L1|Grade 1": {
+        "subject": "Mathematics",
+        "teacherId": "t_grace"
+      },
+      "Mon|L1|Grade 2": {
+        "subject": "English",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L1|Grade 3": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Mon|L1|Grade 4": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Mon|L1|Grade 5": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L1|Grade 6": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Mon|L2|Grade 1": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Mon|L2|Grade 2": {
+        "subject": "Mathematics",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L2|Grade 3": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L2|Grade 4": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Mon|L2|Grade 5": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Mon|L2|Grade 6": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Mon|L3|Grade 1": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Mon|L3|Grade 2": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Mon|L3|Grade 3": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Mon|L3|Grade 4": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Mon|L3|Grade 5": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Mon|L3|Grade 6": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L4|Grade 1": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L4|Grade 2": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Mon|L4|Grade 3": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Mon|L4|Grade 4": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Mon|L4|Grade 5": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Mon|L4|Grade 6": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Mon|L5|Grade 1": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Mon|L5|Grade 2": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L5|Grade 3": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Mon|L5|Grade 4": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Mon|L5|Grade 5": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Mon|L5|Grade 6": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Mon|L6|Grade 1": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L6|Grade 2": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L6|Grade 3": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L6|Grade 4": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L6|Grade 5": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Mon|L6|Grade 6": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Mon|L7|Grade 4": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Mon|L7|Grade 5": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Mon|L7|Grade 6": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L1|Grade 1": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Tue|L1|Grade 2": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L1|Grade 3": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Tue|L1|Grade 4": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Tue|L1|Grade 5": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L1|Grade 6": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L2|Grade 1": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L2|Grade 2": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Tue|L2|Grade 3": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L2|Grade 4": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L2|Grade 5": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L2|Grade 6": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L3|Grade 1": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L3|Grade 2": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L3|Grade 3": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L3|Grade 4": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L3|Grade 5": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Tue|L3|Grade 6": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L4|Grade 1": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L4|Grade 2": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Tue|L4|Grade 3": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L4|Grade 4": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L4|Grade 5": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L4|Grade 6": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Tue|L5|Grade 1": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Tue|L5|Grade 2": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L5|Grade 3": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Tue|L5|Grade 4": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L5|Grade 5": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L5|Grade 6": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Tue|L6|Grade 1": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L6|Grade 2": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L6|Grade 3": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L6|Grade 4": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Tue|L6|Grade 5": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L6|Grade 6": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Tue|L7|Grade 4": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Tue|L7|Grade 5": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Tue|L7|Grade 6": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L1|Grade 1": {
+        "subject": "Mathematics",
+        "teacherId": "t_grace"
+      },
+      "Wed|L1|Grade 2": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L1|Grade 3": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Wed|L1|Grade 4": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L1|Grade 5": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Wed|L1|Grade 6": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L2|Grade 1": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Wed|L2|Grade 2": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L2|Grade 3": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L2|Grade 4": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L2|Grade 5": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L2|Grade 6": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L3|Grade 1": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L3|Grade 2": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Wed|L3|Grade 3": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L3|Grade 4": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Wed|L3|Grade 5": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L3|Grade 6": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L4|Grade 1": {
+        "subject": "PPI (praying)",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L4|Grade 2": {
+        "subject": "PPI (praying)",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L4|Grade 3": {
+        "subject": "PPI (praying)",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L4|Grade 4": {
+        "subject": "PPI (praying)",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L4|Grade 5": {
+        "subject": "PPI (praying)",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L4|Grade 6": {
+        "subject": "PPI (praying)",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L5|Grade 1": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Wed|L5|Grade 2": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L5|Grade 3": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Wed|L5|Grade 4": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L5|Grade 5": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Wed|L5|Grade 6": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L6|Grade 1": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L6|Grade 2": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Wed|L6|Grade 3": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L6|Grade 4": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L6|Grade 5": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Wed|L6|Grade 6": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Wed|L7|Grade 4": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Wed|L7|Grade 5": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Wed|L7|Grade 6": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L1|Grade 1": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Thu|L1|Grade 2": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L1|Grade 3": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L1|Grade 4": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Thu|L1|Grade 5": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L1|Grade 6": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Thu|L2|Grade 1": {
+        "subject": "Mathematics",
+        "teacherId": "t_grace"
+      },
+      "Thu|L2|Grade 2": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Thu|L2|Grade 3": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Thu|L2|Grade 4": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Thu|L2|Grade 5": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L2|Grade 6": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Thu|L3|Grade 1": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L3|Grade 2": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Thu|L3|Grade 3": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Thu|L3|Grade 4": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L3|Grade 5": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Thu|L3|Grade 6": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L4|Grade 1": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Thu|L4|Grade 2": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Thu|L4|Grade 3": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L4|Grade 4": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L4|Grade 5": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Thu|L4|Grade 6": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Thu|L5|Grade 1": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Thu|L5|Grade 2": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L5|Grade 3": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Thu|L5|Grade 4": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Thu|L5|Grade 5": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L5|Grade 6": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Thu|L6|Grade 1": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L6|Grade 2": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L6|Grade 3": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L6|Grade 4": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L6|Grade 5": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L6|Grade 6": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Thu|L7|Grade 4": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Thu|L7|Grade 5": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Thu|L7|Grade 6": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L1|Grade 1": {
+        "subject": "Mathematics",
+        "teacherId": "t_grace"
+      },
+      "Fri|L1|Grade 2": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Fri|L1|Grade 3": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L1|Grade 4": {
+        "subject": "PPI (praying)",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L1|Grade 5": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L1|Grade 6": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L2|Grade 1": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Fri|L2|Grade 2": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L2|Grade 3": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L2|Grade 4": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L2|Grade 5": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Fri|L2|Grade 6": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L3|Grade 1": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L3|Grade 2": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L3|Grade 3": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Fri|L3|Grade 4": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Fri|L3|Grade 5": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L3|Grade 6": {
+        "subject": "Mathematics",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L4|Grade 1": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L4|Grade 2": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Fri|L4|Grade 3": {
+        "subject": "Environmental Activities",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L4|Grade 4": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L4|Grade 5": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L4|Grade 6": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L5|Grade 1": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Fri|L5|Grade 2": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L5|Grade 3": {
+        "subject": "Creative Activities",
+        "teacherId": "t_grace"
+      },
+      "Fri|L5|Grade 4": {
+        "subject": "Science & Technology",
+        "teacherId": "t_kelvin"
+      },
+      "Fri|L5|Grade 5": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L5|Grade 6": {
+        "subject": "English",
+        "teacherId": "t_grace"
+      },
+      "Fri|L6|Grade 1": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L6|Grade 2": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L6|Grade 3": {
+        "subject": "CRE",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L6|Grade 4": {
+        "subject": "Social Studies",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L6|Grade 5": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      },
+      "Fri|L6|Grade 6": {
+        "subject": "Kiswahili",
+        "teacherId": "t_ochieng"
+      },
+      "Fri|L7|Grade 4": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Fri|L7|Grade 5": {
+        "subject": "Creative Arts",
+        "teacherId": "t_grace"
+      },
+      "Fri|L7|Grade 6": {
+        "subject": "Agriculture & Nutrition",
+        "teacherId": "t_chebet"
+      }
+    },
+    "timetableSlots": [
+      {
+        "k": "L1",
+        "t": "8:20 – 9:00",
+        "lesson": 1
+      },
+      {
+        "k": "L2",
+        "t": "9:30 – 9:40",
+        "lesson": 2
+      },
+      {
+        "k": "B1",
+        "t": "9:40 – 10:00",
+        "brk": "Health break"
+      },
+      {
+        "k": "L3",
+        "t": "10:00 – 10:40",
+        "lesson": 3
+      },
+      {
+        "k": "L4",
+        "t": "10:40 – 11:20",
+        "lesson": 4
+      },
+      {
+        "k": "B2",
+        "t": "11:20 – 11:40",
+        "brk": "Health break"
+      },
+      {
+        "k": "L5",
+        "t": "11:40 – 12:20",
+        "lesson": 5
+      },
+      {
+        "k": "L6",
+        "t": "12:20 – 1:00",
+        "lesson": 6
+      },
+      {
+        "k": "LU",
+        "t": "1:00 – 2:00",
+        "brk": "Lunch and rest"
+      },
+      {
+        "k": "L7",
+        "t": "2:00 – 2:40",
+        "lesson": 7
+      },
+      {
+        "k": "DM",
+        "t": "2:40 – 3:00",
+        "brk": "Dismissal"
+      }
+    ],
+    "terms": {
+      "Term 1": {
+        "open": "2026-01-07",
+        "mid": "2026-02-23",
+        "close": "2026-04-03"
+      },
+      "Term 2": {
+        "open": "2026-05-04",
+        "mid": "2026-06-22",
+        "close": "2026-08-07"
+      },
+      "Term 3": {
+        "open": "2026-08-31",
+        "mid": "2026-10-05",
+        "close": "2026-10-30"
+      }
+    },
+    "notices": [
+      {
+        "id": "notif_1",
+        "from": "Ministry of Education & KICD",
+        "role": "admin",
+        "title": "Term Assessment Guidelines (CBC)",
+        "body": "All sub-strand CATs should be finalized 2 weeks before term closing. Weighting policy: 60% CATs, 40% assignments.",
+        "time": "21 Oct, 08:30:00",
+        "unread": true,
+        "ref": null
+      },
+      {
+        "id": "notif_2",
+        "from": "Mr. Kelvin Kiprono",
+        "role": "teacher",
+        "title": "Grade 5 Science Resources Uploaded",
+        "body": "New lesson plans and revision papers on Agriculture and Water Conservation added to the portal.",
+        "time": "20 Oct, 14:15:22",
+        "unread": true,
+        "ref": "t_kelvin"
+      },
+      {
+        "id": "notif_3",
+        "from": "Madam Grace Wanjiku",
+        "role": "teacher",
+        "title": "Grade 1 Phonics Assessment Progress",
+        "body": "Early reading assessments completed for 18 learners. 3 learners need focus practice on vowel digraphs.",
+        "time": "19 Oct, 11:04:15",
+        "unread": false,
+        "ref": "t_grace"
+      }
+    ],
+    "messages": [
+      {
+        "id": "msg_welcome",
+        "from": "ai",
+        "text": "Good day Administrator! I am ELSIE (Little Roses Academy Assistant) — Learn • Love • Lead. I am here to help you manage Little Roses Academy smoothly. What would you like to check today? You can command me to admit learners, manage faculty, freeze the timetable for exams, draft announcements, or generate CBC assessments.",
+        "at": 1794477792788,
+        "stamp": "21 Oct, 08:00:00"
+      }
+    ],
+    "freeze": null,
+    "promotedAt": null,
+    "passwordRequests": [
+      {
+        "id": "REQ-1042",
+        "userType": "teacher",
+        "name": "Madam Grace Wanjiku",
+        "identifier": "0723 456 789",
+        "reason": "Switched to new smartphone device and cannot recall previous password.",
+        "urgency": "normal",
+        "requestedAt": "22 Oct, 09:15:30",
+        "status": "pending"
+      },
+      {
+        "id": "REQ-1039",
+        "userType": "family",
+        "name": "Ali Hassan Mohammed (FAM-001)",
+        "identifier": "0711 223 344",
+        "reason": "Parent portal temporary password expired during mid-term break.",
+        "urgency": "urgent",
+        "requestedAt": "21 Oct, 14:02:10",
+        "status": "approved",
+        "resolvedAt": "21 Oct, 14:20:00",
+        "tempPasswordGenerated": "Roses#2026"
+      }
+    ],
+    "log": [
+      {
+        "text": "Updated school timetable bell slots (11 periods)",
+        "by": "Administrator",
+        "at": "16 Nov, 17:32:13"
+      },
+      {
+        "text": "Administrator logged into Little Roses Academy office",
+        "by": "Administrator",
+        "at": "21 Oct, 08:33:00"
+      },
+      {
+        "text": "Verified CBC Term 3 academic dates and assessment calendar",
+        "by": "Administrator",
+        "at": "20 Oct, 16:45:10"
+      },
+      {
+        "text": "Admitted learner Lorna Achieng with permanent number LRA/0012",
+        "by": "Administrator",
+        "at": "20 Oct, 11:20:05"
+      }
+    ],
+    "tab": "home",
+    "admNext": 13,
+    "admRegister": {
+      "LRA/0001": {
+        "inUse": true
+      },
+      "LRA/0002": {
+        "inUse": true
+      },
+      "LRA/0003": {
+        "inUse": true
+      },
+      "LRA/0004": {
+        "inUse": true
+      },
+      "LRA/0005": {
+        "inUse": true
+      },
+      "LRA/0006": {
+        "inUse": true
+      },
+      "LRA/0007": {
+        "inUse": true
+      },
+      "LRA/0008": {
+        "inUse": true
+      },
+      "LRA/0009": {
+        "inUse": true
+      },
+      "LRA/0010": {
+        "inUse": true
+      },
+      "LRA/0011": {
+        "inUse": true
+      },
+      "LRA/0012": {
+        "inUse": true
+      }
+    },
+    "studentCouncil": {
+      "president": "l_11",
+      "deputy_president": "l_12",
+      "academic_prefect": "l_09",
+      "duty_prefect": "l_10",
+      "environment_prefect": "l_07",
+      "sports_prefect": "l_08",
+      "health_hygiene_prefect": "l_05",
+      "class_prefect_g1": "l_01",
+      "class_prefect_g2": "l_03",
+      "class_prefect_g3": "l_06",
+      "class_prefect_g4": "l_07",
+      "class_prefect_g5": "l_09",
+      "class_prefect_g6": "l_11"
+    },
+    "aiServiceConfig": {
+      "autoPurge24h": true,
+      "autoApproveLessonNotes": false,
+      "autoDetectScheduleClashes": true,
+      "lastPurgeRunAt": "23 Oct, 06:30 EAT",
+      "purgedTotalCount": 38
+    },
+    "interPortalMessages": [
+      {
+        "id": "req_ip_101",
+        "senderType": "teacher",
+        "senderId": "t_kelvin",
+        "senderName": "Mr. Kelvin Kiprono",
+        "senderRole": "Grade 5 Science & Technology Teacher",
+        "recipientPortal": "admin",
+        "type": "lesson_notes",
+        "title": "Grade 5 Science: Human Respiratory System Notes Request",
+        "body": "Kindly synthesize comprehensive CBC-aligned lesson notes, key inquiry questions, and practical lung demonstration instructions for Grade 5 Science & Technology.",
+        "priority": "urgent",
+        "createdAt": 1794470592788,
+        "createdStamp": "Today, 07:15 AM",
+        "expiresAt": 1794556992788,
+        "status": "pending",
+        "payload": {
+          "grade": "Grade 5",
+          "subject": "Science & Technology",
+          "topic": "Human Respiratory System & Breathing Mechanism"
+        }
+      },
+      {
+        "id": "req_ip_102",
+        "senderType": "teacher",
+        "senderId": "t_ochieng",
+        "senderName": "Mr. Peter Ochieng",
+        "senderRole": "Grade 5 Social Studies Faculty",
+        "recipientPortal": "admin",
+        "type": "schedule_update",
+        "title": "Reschedule Request: Grade 5 Social Studies to Thursday L4",
+        "body": "Requesting to move Grade 5 Social Studies from Wednesday L2 (9:00 – 9:40) to Thursday L4 (10:40 – 11:20) to accommodate physical map fieldwork.",
+        "priority": "normal",
+        "createdAt": 1794463392788,
+        "createdStamp": "Today, 05:40 AM",
+        "expiresAt": 1794549792788,
+        "status": "pending",
+        "payload": {
+          "currentSlot": {
+            "day": "Wed",
+            "slotKey": "L2",
+            "grade": "Grade 5",
+            "subject": "Social Studies"
+          },
+          "proposedSlot": {
+            "day": "Thu",
+            "slotKey": "L4",
+            "grade": "Grade 5",
+            "subject": "Social Studies"
+          },
+          "conflictDetected": false
+        }
+      },
+      {
+        "id": "req_ip_103",
+        "senderType": "teacher",
+        "senderId": "t_grace",
+        "senderName": "Madam Grace Wanjiku",
+        "senderRole": "Grade 1 English & Phonics Faculty",
+        "recipientPortal": "admin",
+        "type": "lesson_notes",
+        "title": "Grade 1 English: Consonant Blends & Phonics Sounds",
+        "body": "Requesting CBC-aligned phonetic sound chart and storybook drill notes for Grade 1 English.",
+        "priority": "normal",
+        "createdAt": 1794452592788,
+        "createdStamp": "Yesterday, 22:30",
+        "expiresAt": 1794538992788,
+        "status": "delivered",
+        "payload": {
+          "grade": "Grade 1",
+          "subject": "English",
+          "topic": "Consonant Blends & Initial Sounds"
+        },
+        "aiResolution": {
+          "actionTaken": "Generated CBC phonics notes and delivered to Madam Grace locker",
+          "resolvedAt": "23 Oct, 00:15 EAT",
+          "responseSentToPortal": "✓ Phonics notes delivered to your Grade 1 English Lesson notes folder.",
+          "pushedFileName": "Grade1_English_Consonant_Blends_Notes.pdf"
+        }
+      },
+      {
+        "id": "req_ip_104",
+        "senderType": "parent",
+        "senderId": "FAM-002",
+        "senderName": "Priscilla Kipkoech (FAM-002)",
+        "senderRole": "Parent of Brian Kipkoech (Grade 1)",
+        "recipientPortal": "admin",
+        "type": "leave_notice",
+        "title": "Absence Notice: Brian Kipkoech Clinic Visit",
+        "body": "Brian will be away tomorrow morning for a pediatric health checkup at Nakuru Hospital. He will return at 11:30 AM.",
+        "priority": "normal",
+        "createdAt": 1794466992788,
+        "createdStamp": "Today, 06:10 AM",
+        "expiresAt": 1794553392788,
+        "status": "approved",
+        "aiResolution": {
+          "actionTaken": "Absence recorded and duty teacher notified",
+          "resolvedAt": "Today, 06:25 AM",
+          "responseSentToPortal": "Absence noted in morning roll call. Duty teacher alerted."
+        }
+      }
+    ],
+    "aiUse": {
+      "day": "2026-10-21",
+      "count": 2
+    },
+    "promotedTimestamp": 1792918529204,
+    "assessmentRetentionPurgedAt": null,
+    "clashResolved": {
+      "712345678": "separate"
+    },
+    "clientModifiedAt": 1794839946085
+  },
+  "marks": {
+    "l_w3qgw3j_G1T10B1": {
+      "cats": [
+        {
+          "s": 28,
+          "t": 30
+        }
+      ],
+      "asg": [
+        {
+          "s": 0,
+          "t": 10
+        }
+      ]
+    },
+    "l_fmqd3ea_G2T10B1": {
+      "cats": [
+        {
+          "s": 0,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "s": 0,
+          "t": 10
+        }
+      ]
+    },
+    "l_w3qgw3j_G1T11B5": {
+      "cats": [
+        {
+          "s": 0,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "s": 0,
+          "t": 10
+        }
+      ]
+    },
+    "l_7iy75d6_G3T11B1": {
+      "cats": [
+        {
+          "s": 0,
+          "t": 10
+        },
+        {
+          "s": 0,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "s": 0,
+          "t": 10
+        },
+        {
+          "s": 0,
+          "t": 10
+        }
+      ]
+    },
+    "l_test_smk_G4T10B1": {
+      "cats": [
+        {
+          "s": 9,
+          "t": 10
+        },
+        {
+          "s": 9,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "s": 9,
+          "t": 10
+        }
+      ]
+    },
+    "l_test_smk_G4T11B1": {
+      "cats": [
+        {
+          "s": 6,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "s": 6,
+          "t": 10
+        }
+      ]
+    },
+    "l_01_G1T10B1": {
+      "cats": [
+        {
+          "s": 6,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "s": 10,
+          "t": 10
+        }
+      ]
+    },
+    "l_david_G1T10B1": {
+      "cats": [
+        {
+          "id": "cat_1",
+          "name": "CAT Evaluation",
+          "s": 3,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "id": "asg_1",
+          "name": "Class Assignment",
+          "s": 3,
+          "t": 10
+        }
+      ]
+    },
+    "l_david_G1T11B5": {
+      "cats": [
+        {
+          "id": "cat_1",
+          "name": "CAT Evaluation",
+          "s": 9,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "id": "asg_1",
+          "name": "Class Assignment",
+          "s": 9,
+          "t": 10
+        }
+      ]
+    },
+    "l_david_G1T14B1": {
+      "cats": [
+        {
+          "id": "cat_1",
+          "name": "CAT Evaluation",
+          "s": 3,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "id": "asg_1",
+          "name": "Class Assignment",
+          "s": 3,
+          "t": 10
+        }
+      ]
+    },
+    "l_david_G1T11B1": {
+      "cats": [
+        {
+          "id": "cat_1",
+          "name": "CAT Evaluation",
+          "s": 7,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "id": "asg_1",
+          "name": "Class Assignment",
+          "s": 7,
+          "t": 10
+        }
+      ]
+    },
+    "l_david_G1T11B2": {
+      "cats": [
+        {
+          "id": "cat_1",
+          "name": "CAT Evaluation",
+          "s": 9,
+          "t": 10
+        }
+      ],
+      "asg": [
+        {
+          "id": "asg_1",
+          "name": "Class Assignment",
+          "s": 9,
+          "t": 10
+        }
+      ]
+    }
+  },
+  "comments": {},
+  "submissions": {},
+  "ecosystem": {
+    "attendance": {
+      "todayStatus": "Present",
+      "presentCount": 42,
+      "absentCount": 2,
+      "lateCount": 3,
+      "totalDays": 47,
+      "streak": 18,
+      "lastCheckInTime": "08:15 AM (Class 4A Roll Call)",
+      "markedByTeacher": "Tr. Peter Kibet"
+    },
+    "notices": [],
+    "homework": [],
+    "teacherCATs": []
+  },
+  "calendar": {
+    "currentYear": 2026,
+    "term1Start": "2026-01-08",
+    "term2Start": "2026-05-06",
+    "term3Start": "2026-09-02",
+    "promotedTimestamp": null
+  },
+  "bellNotices": [],
+  "notificationEvents": [
+    {
+      "id": "test_1794840235949",
+      "category": "booklet",
+      "title": "Parent Test",
+      "body": "Scoped push check",
+      "targetPortal": "parents",
+      "targetTab": "book",
+      "learnerId": "l1",
+      "url": "/?portal=parents",
+      "createdAt": 1794840235949
+    }
+  ],
+  "deletedTeacherIds": [],
+  "deletedLearnerIds": [],
+  "deletedFamilyIds": [],
+  "lastClientWriteAt": 1794839998939,
+  "lastUpdated": 1794839998939
+}

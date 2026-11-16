@@ -1,0 +1,6922 @@
+{
+  "Grade 1": {
+    "terms": {
+      "Term 1": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G1T10B1",
+              "code": "1",
+              "name": "Numbers",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Pre-number activities"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Whole Numbers"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Addition"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Subtraction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G1T11B1",
+              "code": "1",
+              "name": "Greetings",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Pre-reading"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Verb ‘to be’- Present Tense"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Pre-writing"
+                }
+              ]
+            },
+            {
+              "sid": "G1T11B2",
+              "code": "2",
+              "name": "School",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Pre-reading"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Subjective Pronouns- Singular"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Pre-writing"
+                }
+              ]
+            },
+            {
+              "sid": "G1T11B3",
+              "code": "3",
+              "name": "Family",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Pre-reading"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Objective Pronouns- Singular"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G1T11B4",
+              "code": "4",
+              "name": "Home",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Pre-reading"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Singular and plurals (adding -s and -es)"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G1T11B5",
+              "code": "5",
+              "name": "Time",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Pre- reading"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Tense: Present Simple Tense"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Handwriting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G1T12B1",
+              "code": "1",
+              "name": "Darasani",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Maamkuzi na Maagano"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Usomaji Mwafaka"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Uandishi Bora"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Matumizi ya Mimi na Sisi"
+                }
+              ]
+            },
+            {
+              "sid": "G1T12B2",
+              "code": "2",
+              "name": "Familia",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Matamshi Bora Sauti: (/m/, /a/, /u/, /k/, /t/ /l/)"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Kusoma kwa Ufasaha Sauti: (/m/, /a/, /u/, /k/, /t/, /l/)"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Hati nadhifu - Herufi kubwa"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Umoja na Wingi wa Majina"
+                }
+              ]
+            },
+            {
+              "sid": "G1T12B3",
+              "code": "3",
+              "name": "Tarakimu",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Maneno ya Adabu na Heshima"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Kusoma kwa Ufahamu Kifungu"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Hati Nadhifu Herufi Ndogo"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Matumizi ya Huyu na Hawa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G1T13B1",
+              "code": "1",
+              "name": "Social Environment",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Cleaning My Body"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Our Home"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Family Needs"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Our School"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Our Market"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G1T14B1",
+              "code": "1",
+              "name": "Creating and Executing",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Jumping"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Rhythm"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Drawing"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Stretching"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Painting and Colouring"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Melody"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Pattern Making"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G1T15B1",
+              "code": "1",
+              "name": "Creation",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Self Awareness"
+                },
+                {
+                  "code": "1.2",
+                  "name": "My Family"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Creation of Plants and Animals"
+                }
+              ]
+            },
+            {
+              "sid": "G1T15B2",
+              "code": "2",
+              "name": "The Holy Bible",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "The Word of God"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Joseph and His Brothers"
+                },
+                {
+                  "code": "2.3",
+                  "name": "The Chariot of Fire"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 2": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G1T20B2",
+              "code": "2",
+              "name": "Measurements",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Length"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Mass"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Capacity"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Time"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Money"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G1T21B6",
+              "code": "6",
+              "name": "Weather And Our Environment",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Word Reading"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Tense: Present Continuous Tense (Adding -ing)"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G1T21B7",
+              "code": "7",
+              "name": "Hygiene",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Word Reading"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Tense: Simple Past Tense (Adding -ed / -d)"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G1T21B8",
+              "code": "8",
+              "name": "Parts Of The Body",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Demonstratives: this, that, these and those"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G1T21B9",
+              "code": "9",
+              "name": "My Friends",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Punctuation (capital letters, small letters and the full stop)"
+                }
+              ]
+            },
+            {
+              "sid": "G1T21B10",
+              "code": "10",
+              "name": "Safety",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Simple prepositions (in, on, under, between, behind, in front, inside, outside)"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Punctuation - Capital letters - Question marks"
+                }
+              ]
+            },
+            {
+              "sid": "G1T21B11",
+              "code": "11",
+              "name": "Community Leaders",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Guided Writing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G1T22B4",
+              "code": "4",
+              "name": "Siku Za Wiki",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Matamshi Bora Sauti: (/n/, /o/, /w/, /e/, /i/, /h/)"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Kusoma kwa Ufasaha Sauti: (/n/, /o/, /w/, /e/, /i/, /h/)"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Hati Nadhifu"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Umoja na Wingi wa Majina"
+                }
+              ]
+            },
+            {
+              "sid": "G1T22B5",
+              "code": "5",
+              "name": "Mimi Na Wenzangu",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Ufahamu wa Kusikiliza Kifungu"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Kusoma kwa Ufahamu Kifungu"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Matumizi ya Kikomo"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Matumizi ya -angu na -etu"
+                }
+              ]
+            },
+            {
+              "sid": "G1T22B6",
+              "code": "6",
+              "name": "Mwili Wangu",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Matamshi Bora Sauti: (/s/, /b/, /y/, /z/, /g/, /d/) (vipindi 3)"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Kusoma kwa Ufasaha Sauti: (/s/, /b/, /y/, /z/, /g/, /d/)"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Tahajia Imla"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Matumizi ya - zuri na – baya"
+                }
+              ]
+            },
+            {
+              "sid": "G1T22B7",
+              "code": "7",
+              "name": "Usafi Wa Mwili",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Maagizo"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Kusoma kwa Ufahamu Kifungu"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Kuandika maneno ipasavyo"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Ukanushaji"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G1T23B2",
+              "code": "2",
+              "name": "Natural Environment",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Weather and the Sky"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Soil"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Sound"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G1T24B2",
+              "code": "2",
+              "name": "Performing and Displaying",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Singing Games - Kenyan Style"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Throwing and Catching"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Paper Craft"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Log Roll and T Balances"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Songs - Action Songs"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Modelling"
+                },
+                {
+                  "code": "2.7",
+                  "name": "Percussion Musical Instruments"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G1T25B3",
+              "code": "3",
+              "name": "The Early Life of Jesus Christ",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "The Birth of Jesus Christ"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Jesus Christ in the Temple"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Baptism of Jesus Christ"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Wedding of Cana of Galilee"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Healing of Simon's Mother-in-law"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 3": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G1T30B3",
+              "code": "3",
+              "name": "Geometry",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Lines"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Shapes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G1T31B12",
+              "code": "12",
+              "name": "Living Together",
+              "subs": [
+                {
+                  "code": "12.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "12.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "12.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "12.4",
+                  "name": "Possessives: (my, our, her, his, their, its)"
+                },
+                {
+                  "code": "12.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G1T31B13",
+              "code": "13",
+              "name": "Technology",
+              "subs": [
+                {
+                  "code": "13.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "13.2",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "13.3",
+                  "name": "Yes/ No questions (with can, may, will)"
+                },
+                {
+                  "code": "13.4",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G1T31B14",
+              "code": "14",
+              "name": "Numbers",
+              "subs": [
+                {
+                  "code": "14.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "14.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "14.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "14.4",
+                  "name": "Adverbs of Place"
+                },
+                {
+                  "code": "14.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G1T31B15",
+              "code": "15",
+              "name": "Conserving Resources",
+              "subs": [
+                {
+                  "code": "15.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "15.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "15.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "15.4",
+                  "name": "Interjections of surprise"
+                },
+                {
+                  "code": "15.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G1T32B8",
+              "code": "8",
+              "name": "Vyakula Vyetu",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Matamshi bora Sauti: (/j/, /r/, /p/, /f/, /v/, /sh/)"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Kusoma kwa Ufasaha Sauti: (/j/, /r/, /p/, /f/, /v/, /sh/)"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Tahajia"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Matumizi ya hiki na hivi"
+                }
+              ]
+            },
+            {
+              "sid": "G1T32B9",
+              "code": "9",
+              "name": "Jikoni",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Mazungumzo"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Kusoma kwa Ufahamu Kifungu"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Kifungu kutokana na Picha"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Matumizi ya Maneno Yanayoashiria Vitendo"
+                }
+              ]
+            },
+            {
+              "sid": "G1T32B10",
+              "code": "10",
+              "name": "Michezo",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Matamshi Bora Sauti: (/ny/, /dh/, /th/, /ch/, /gh/, /ng/, /ng’/)"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Kusoma kwa Ufasaha: Sauti: (/ny/, /dh/, /th/, /ch/, /gh/, /ng/, /ng’/)"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Kifungu kutokana na picha"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Vinyume vya Vitendo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G1T33B3",
+              "code": "3",
+              "name": "Resources in Our Environment",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Water"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Plants"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Animals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G1T34B3",
+              "code": "3",
+              "name": "Appreciation",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Musical Sounds"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Water Safety Awareness"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G1T35B4",
+              "code": "4",
+              "name": "Christian Values",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Sharing"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Obedience"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Honesty"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Thankfulness"
+                }
+              ]
+            },
+            {
+              "sid": "G1T35B5",
+              "code": "5",
+              "name": "The Church",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "A House of God"
+                },
+                {
+                  "code": "5.2",
+                  "name": "A House of Prayer"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Grade 2": {
+    "terms": {
+      "Term 1": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G2T10B1",
+              "code": "1",
+              "name": "Numbers",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Number Concept"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Whole Numbers"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Addition"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Subtraction"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Multiplication"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Division"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Fractions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G2T11B1",
+              "code": "1",
+              "name": "School",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Verb ‘to be’- Past Tense 1.3.2 Objective Pronouns - Plural"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G2T11B2",
+              "code": "2",
+              "name": "Activities In The Home",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Subjective Pronouns - Plural"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G2T11B3",
+              "code": "3",
+              "name": "Transport",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G2T11B4",
+              "code": "4",
+              "name": "Months Of The Year",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Simple Past Tense"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G2T11B5",
+              "code": "5",
+              "name": "Shopping",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Nouns: Plurals of irregular nouns"
+                },
+                {
+                  "code": "5.5",
+                  "name": "Spelling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G2T12B1",
+              "code": "1",
+              "name": "Shuleni",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Maamkuzi na Maagano"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Kusoma Ufahamu Kusoma kifungu."
+                },
+                {
+                  "code": "1.3",
+                  "name": "Hati nadhifu: Sentensi: Maumbo yanayofaa, kutoacha nafasi baina ya herufi katika neno, kuacha nafasi kati ya neno lingine)"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Matumizi ya Wewe na Nyinyi"
+                }
+              ]
+            },
+            {
+              "sid": "G2T12B2",
+              "code": "2",
+              "name": "Haki Zangu",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Matamshi Bora. Sauti: /p/, /f/, /v/"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Kusoma kwa ufasaha. Sauti: /p/, /f/, /v/"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Hati Nadhifu Herufi Kubwa"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Umoja na Wingi wa Vifungu"
+                }
+              ]
+            },
+            {
+              "sid": "G2T12B3",
+              "code": "3",
+              "name": "Lishe Bora",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Maneno ya Heshima na Adabu Hodi, karibu, tafadhali, ninaomba, nisamehe na nashukuru."
+                },
+                {
+                  "code": "3.2",
+                  "name": "Kusoma kwa ufahamu Kusoma kifungu"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Mpangilio wa Herufi Ndogo"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Matumizi ya Huyo na Hao"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G2T13B1",
+              "code": "1",
+              "name": "Social Environment",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Our Home"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Family Needs and Wants"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Our School"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Our National Flag"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Our Rights and Responsibilities"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Our Market"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G2T14B1",
+              "code": "1",
+              "name": "Creating and Executing",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Hopping"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Drawing and Painting"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Rhythm and Pattern Making"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Turning"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Mosaic"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Melody"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G2T15B1",
+              "code": "1",
+              "name": "Creation",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Self-Awareness"
+                },
+                {
+                  "code": "1.2",
+                  "name": "My Family"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Creation of the sky, sun, moon, and stars"
+                }
+              ]
+            },
+            {
+              "sid": "G2T15B2",
+              "code": "2",
+              "name": "The Holy Bible",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "The Bible as a Guide"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Divisions of the Bible"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Bible Story: The Call of Samuel"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Bible Story: Daniel in the den of lions"
+                },
+                {
+                  "code": "2.5",
+                  "name": "The Bible Story: The Widow of Zarephath"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 2": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G2T20B2",
+              "code": "2",
+              "name": "Measurements",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Length"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Mass"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Capacity"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Time"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Money"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G2T21B6",
+              "code": "6",
+              "name": "The Garden",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Tense: Past Continuous Tense"
+                },
+                {
+                  "code": "6.5",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G2T21B7",
+              "code": "7",
+              "name": "Accidents",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Conjunctions"
+                },
+                {
+                  "code": "7.5",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G2T21B8",
+              "code": "8",
+              "name": "Classroom",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Cardinal and ordinal numbers"
+                },
+                {
+                  "code": "8.5",
+                  "name": "Demonstratives - Plural (these, those)"
+                },
+                {
+                  "code": "8.6",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G2T21B9",
+              "code": "9",
+              "name": "The Farm",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Word Sets (gender sets for animals/people) 9.3.2 Opposites"
+                },
+                {
+                  "code": "9.5",
+                  "name": "Punctuation (The comma)"
+                }
+              ]
+            },
+            {
+              "sid": "G2T21B10",
+              "code": "10",
+              "name": "Position And Directions",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Prepositions"
+                },
+                {
+                  "code": "10.5",
+                  "name": "Punctuation (The exclamation mark)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G2T22B4",
+              "code": "4",
+              "name": "Usafiri",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Matamshi Bora /ch/ na /dh/ Sauti"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Kusoma kwa ufasaha Sauti; /ch/, /dh/"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Nafasi katika maandishi."
+                },
+                {
+                  "code": "4.4",
+                  "name": "Umoja na Wingi: Vifungu vya maneno"
+                }
+              ]
+            },
+            {
+              "sid": "G2T22B5",
+              "code": "5",
+              "name": "Mnyama Nimpendaye",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Ufahamu wa Kusikiliza Hadithi"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Kusoma Kwa Ufahamu"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Uakifishi: Matumizi ya Kiulizi"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Matumizi ya -ako na –enu"
+                }
+              ]
+            },
+            {
+              "sid": "G2T22B6",
+              "code": "6",
+              "name": "Ukoo",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Matamshi Bora: Sauti:/ny/ na /ng/"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Kusoma kwa Ufasaha Sauti: /ny/ na /ng/"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Tahajia Imla Sauti: /ny/ na /ng/"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Matumizi ya -refu, - kubwa, - tamu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G2T23B2",
+              "code": "2",
+              "name": "Natural Environment",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Weather"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Soil"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Light"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G2T24B2",
+              "code": "2",
+              "name": "Performing and Displaying",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Singing Games - Western Style"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Kicking"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Plaited Ornaments"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Egg Roll and Swan Balance"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Wind Musical Instruments"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Modelling"
+                },
+                {
+                  "code": "2.7",
+                  "name": "Songs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G2T25B3",
+              "code": "3",
+              "name": "The Early Life of Jesus Christ",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "The Birth of Jesus Christ"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Kindness of the Wise Men"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Jesus calms the Storm"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Miraculous Catch of Fish"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Healing the Man with a Withered Hand"
+                },
+                {
+                  "code": "3.6",
+                  "name": "Easter"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 3": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G2T30B3",
+              "code": "3",
+              "name": "Geometry",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Lines"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Shapes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G2T31B11",
+              "code": "11",
+              "name": "Environment",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Regular comparative and superlative adjectives"
+                },
+                {
+                  "code": "11.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G2T31B12",
+              "code": "12",
+              "name": "Technology",
+              "subs": [
+                {
+                  "code": "12.1",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "12.2",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "12.3",
+                  "name": "Possessive Pronouns"
+                },
+                {
+                  "code": "12.4",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G2T31B13",
+              "code": "13",
+              "name": "Cultural Activities",
+              "subs": [
+                {
+                  "code": "13.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "13.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "13.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "13.4",
+                  "name": "Wh- questions"
+                },
+                {
+                  "code": "13.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G2T31B14",
+              "code": "14",
+              "name": "Child Labour",
+              "subs": [
+                {
+                  "code": "14.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "14.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "14.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "14.4",
+                  "name": "Adverbs of time"
+                },
+                {
+                  "code": "14.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G2T31B15",
+              "code": "15",
+              "name": "Caring For Others",
+              "subs": [
+                {
+                  "code": "15.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "15.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "15.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "15.4",
+                  "name": "Imperatives (commands) 15.3.2 Interjections of excitement/joy"
+                },
+                {
+                  "code": "15.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G2T32B7",
+              "code": "7",
+              "name": "Sebuleni",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Maagizo Maagizo ya hatua mbili."
+                },
+                {
+                  "code": "7.2",
+                  "name": "Kusoma Kwa Ufahamu: Kifungu"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Uhariri: Vipengele katika Uhariri"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Ukanusho wa nafsi ya pili, umoja na wingi"
+                }
+              ]
+            },
+            {
+              "sid": "G2T32B8",
+              "code": "8",
+              "name": "Usalama Wangu",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Kusoma kwa ufasaha Sauti: /sh/ na /th/"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Tahajia"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Matumizi ya huu na hii"
+                }
+              ]
+            },
+            {
+              "sid": "G2T32B9",
+              "code": "9",
+              "name": "Hospitalini",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Mazungumzo ya papo kwa hapo."
+                },
+                {
+                  "code": "9.2",
+                  "name": "Kusoma kwa ufahamu Kusoma kifungu"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Kuandika Kifungu"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Matumizi ya Vizuri na Vibaya, Polepole na Haraka."
+                }
+              ]
+            },
+            {
+              "sid": "G2T32B10",
+              "code": "10",
+              "name": "Hali Ya Anga",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Matamshi Bora Alfabeti ya Kiswahili."
+                },
+                {
+                  "code": "10.2",
+                  "name": "Kusoma kwa ufasaha Kusoma kifungu."
+                },
+                {
+                  "code": "10.3",
+                  "name": "Maneno Na Sentensi"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Vinyume vya Vitendo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G2T33B3",
+              "code": "3",
+              "name": "Resources in Our Environment",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Water"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Plants"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Animals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G2T34B3",
+              "code": "3",
+              "name": "Appreciation",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Singing Games - Western Style"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Water Safety Awareness"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G2T35B4",
+              "code": "4",
+              "name": "Christian Values",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Sharing"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Obedience"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Honesty"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Thankfulness"
+                },
+                {
+                  "code": "4.5",
+                  "name": "Forgiveness"
+                },
+                {
+                  "code": "4.6",
+                  "name": "Responsibility"
+                },
+                {
+                  "code": "4.7",
+                  "name": "Work"
+                }
+              ]
+            },
+            {
+              "sid": "G2T35B5",
+              "code": "5",
+              "name": "The Church",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Prayer"
+                },
+                {
+                  "code": "5.2",
+                  "name": "The Holy Spirit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Grade 3": {
+    "terms": {
+      "Term 1": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G3T10B1",
+              "code": "1",
+              "name": "Numbers",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Number Activities"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Whole Numbers"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Addition"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Subtraction"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Multiplication"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Division"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Fractions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G3T11B1",
+              "code": "1",
+              "name": "Activities At Home And School",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Subject-verb agreement – Verb ‘to be’"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Handwriting: Letters of the alphabet"
+                }
+              ]
+            },
+            {
+              "sid": "G3T11B2",
+              "code": "2",
+              "name": "Sharing Duties And Responsibilities",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Subject- verb agreement"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G3T11B3",
+              "code": "3",
+              "name": "Etiquette",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Subject-verb agreement – verb ‘to have’"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G3T11B4",
+              "code": "4",
+              "name": "Child Rights",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Indefinite pronouns"
+                },
+                {
+                  "code": "4.5",
+                  "name": "Handwriting"
+                }
+              ]
+            },
+            {
+              "sid": "G3T11B5",
+              "code": "5",
+              "name": "Occupations",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Singular and plurals of irregular nouns"
+                },
+                {
+                  "code": "5.5",
+                  "name": "Hand Writing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G3T12B1",
+              "code": "1",
+              "name": "Uzalendo",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Maamkuzi na Maagano"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Hati Nadhifu: Kifungu"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Matumizi ya Yeye na Wao"
+                }
+              ]
+            },
+            {
+              "sid": "G3T12B2",
+              "code": "2",
+              "name": "Shambani",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Matamshi Bora: Vokali na Konsonanti za Kiswahili"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Kusoma kwa Ufasaha Sauti /bw/, /fy/ na /kw/"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Hati Nadhifu"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Umoja na Wingi wa Sentensi"
+                }
+              ]
+            },
+            {
+              "sid": "G3T12B3",
+              "code": "3",
+              "name": "Miezi Ya Mwaka",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Maneno ya Heshima na Adabu"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Hati Nadhifu"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Matumizi ya Maneno Yule na Wale"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G3T13B1",
+              "code": "1",
+              "name": "Social Environment",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Our Living Environment"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Family needs Emotional needs"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Food in Our Environment"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Our Community"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Cultural Events"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G3T14B1",
+              "code": "1",
+              "name": "Creating and Executing",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Pushing and Pulling"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Drawing and Painting"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Rhythm and pattern making"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Skipping"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Collage"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Melody"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Weaving"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G3T15B1",
+              "code": "1",
+              "name": "Creation",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Self- Awareness"
+                },
+                {
+                  "code": "1.2",
+                  "name": "My Family"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Adam and Eve"
+                }
+              ]
+            },
+            {
+              "sid": "G3T15B2",
+              "code": "2",
+              "name": "The Holy Bible",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "The Bible as the Word of God"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Bible Story: Moses and the Burning Bush"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Bible Story; The big fish Swallows Jonah"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Bible Story; Naaman is Healed"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Bible Story: The three Hebrew men"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Bible Story; Elisha and the Boys"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 2": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G3T20B2",
+              "code": "2",
+              "name": "Measurement",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Length"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Mass"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Capacity"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Time"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Money"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G3T21B6",
+              "code": "6",
+              "name": "Technology",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Tense: Future time (will/shall)"
+                },
+                {
+                  "code": "6.5",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G3T21B7",
+              "code": "7",
+              "name": "Safety",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Conjunctions"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G3T21B8",
+              "code": "8",
+              "name": "Domestic Animals",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Quantifiers"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Spelling"
+                }
+              ]
+            },
+            {
+              "sid": "G3T21B9",
+              "code": "9",
+              "name": "Wild Animals",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Opposites"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Punctuation - The Comma"
+                }
+              ]
+            },
+            {
+              "sid": "G3T21B10",
+              "code": "10",
+              "name": "Festivals",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Prepositions"
+                },
+                {
+                  "code": "10.5",
+                  "name": "Punctuation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G3T22B4",
+              "code": "4",
+              "name": "Kazi Mbalimbali",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Matamshi Bora Silabi za sauti /py/, /vy/ na /sh/"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Nafasi ya Pambizo katika Uandishi"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Umoja na Wingi wa Sentensi"
+                }
+              ]
+            },
+            {
+              "sid": "G3T22B5",
+              "code": "5",
+              "name": "Usalama",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Ufahamu wa Kusikiliza"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Matumizi ya Kiulizi"
+                }
+              ]
+            },
+            {
+              "sid": "G3T22B6",
+              "code": "6",
+              "name": "Usafi Wa Mazingira",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Matamshi Bora silabi za sauti /dh/, /th/ na /ch/"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Kusoma kwa Ufasaha Sauti /dh/, /th/ na /ch/"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Imla"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Matumizi ya -eupe, - eusi na - ekundu"
+                }
+              ]
+            },
+            {
+              "sid": "G3T22B7",
+              "code": "7",
+              "name": "Dukani",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Maagizo"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Uandishi wa Insha"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Ukanushaji wa nafsi ya tatu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G3T23B2",
+              "code": "2",
+              "name": "Natural Environment",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Weather"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Soil"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Heat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G3T24B2",
+              "code": "2",
+              "name": "Performing and Displaying",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Rounds"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Galloping"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Sculpture Assemblage)"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Forward Roll and V- balance"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Playing String Musical Instruments"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Modelling and Ornament Making."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G3T25B3",
+              "code": "3",
+              "name": "The Early Life of Jesus Christ",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "The Birth of Jesus Christ"
+                },
+                {
+                  "code": "3.2",
+                  "name": "The Good Samaritan"
+                },
+                {
+                  "code": "3.3",
+                  "name": "The Little Boy with five loaves and two fish"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Jesus Christ walks on water"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Raising of Jairus’ Daughter"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 3": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G3T30B3",
+              "code": "3",
+              "name": "Geometry",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Position and Direction"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Shapes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G3T31B11",
+              "code": "11",
+              "name": "Play Time And Sports",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Adjectives: Comparatives and superlatives"
+                },
+                {
+                  "code": "11.5",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G3T31B12",
+              "code": "12",
+              "name": "Food And Diseases",
+              "subs": [
+                {
+                  "code": "12.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "12.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "12.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "12.4",
+                  "name": "Pronouns: Possessive pronouns"
+                },
+                {
+                  "code": "12.5",
+                  "name": "Paragraphs"
+                }
+              ]
+            },
+            {
+              "sid": "G3T31B13",
+              "code": "13",
+              "name": "Savings",
+              "subs": [
+                {
+                  "code": "13.1",
+                  "name": "Pronunciation and vocabulary"
+                },
+                {
+                  "code": "13.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "13.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "13.4",
+                  "name": "‘Wh’ questions"
+                },
+                {
+                  "code": "13.5",
+                  "name": "Guided writing"
+                }
+              ]
+            },
+            {
+              "sid": "G3T31B14",
+              "code": "14",
+              "name": "Talents",
+              "subs": [
+                {
+                  "code": "14.1",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "14.2",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "14.3",
+                  "name": "Adverbs of Manner"
+                },
+                {
+                  "code": "14.4",
+                  "name": "Guided writing"
+                }
+              ]
+            },
+            {
+              "sid": "G3T31B15",
+              "code": "15",
+              "name": "Environment",
+              "subs": [
+                {
+                  "code": "15.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "15.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "15.3",
+                  "name": "Comprehension"
+                },
+                {
+                  "code": "15.4",
+                  "name": "Interjections of Displeasure"
+                },
+                {
+                  "code": "15.5",
+                  "name": "Guided Writing - Factual Paragraph"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G3T32B8",
+              "code": "8",
+              "name": "Ndege Nimpendaye",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Matamshi Bora Silabi za sauti /mbw, /nd/ na /ny/"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Kusoma kwa Ufasaha Sauti /mbw/, /nd/ na /ny/"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Tahajia"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Matumizi ya Maneno Hili na Haya"
+                }
+              ]
+            },
+            {
+              "sid": "G3T32B9",
+              "code": "9",
+              "name": "Sokoni",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Mazungumzo"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Kusoma kwa ufahamu"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Insha ya Masimulizi"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Matumizi ya: Juu ya, Ndani ya na Mbele ya"
+                }
+              ]
+            },
+            {
+              "sid": "G3T32B10",
+              "code": "10",
+              "name": "Teknolojia",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Matamshi Bora Sauti /mb/, /nz/ na /tw/"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Kusoma kwa Ufasaha Sauti /mb/, /nz/ na /tw/"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Insha ya Maelezo"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Vinyume vya Vitendo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Activities",
+          "strands": [
+            {
+              "sid": "G3T33B3",
+              "code": "3",
+              "name": "Resources in Our Environment",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Water"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Plants"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Animals"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Waste Materials"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Activities",
+          "strands": [
+            {
+              "sid": "G3T34B3",
+              "code": "3",
+              "name": "Appreciation",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "The Kenya National Anthem"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Water Safety Awareness"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G3T35B4",
+              "code": "4",
+              "name": "Christian Values",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Honesty"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Thankfulness"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Forgiveness"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Trust"
+                },
+                {
+                  "code": "4.5",
+                  "name": "Responsibility"
+                }
+              ]
+            },
+            {
+              "sid": "G3T35B5",
+              "code": "5",
+              "name": "The Church",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Prayer"
+                },
+                {
+                  "code": "5.2",
+                  "name": "The Holy Spirit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Grade 4": {
+    "terms": {
+      "Term 1": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G4T10B1",
+              "code": "1",
+              "name": "Numbers",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Whole Numbers"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Addition"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Subtraction"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Multiplication"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Division"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Fractions"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Decimals"
+                },
+                {
+                  "code": "1.8",
+                  "name": "Use of Letters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G4T11B1",
+              "code": "1",
+              "name": "The Family",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Extensive Reading: Reference Materials"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Determiners: Articles"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Functional writing Filling Forms"
+                }
+              ]
+            },
+            {
+              "sid": "G4T11B2",
+              "code": "2",
+              "name": "Family Celebrations",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Intensive Reading: Poems and Stories"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Word Classes: Regular and Irregular Nouns"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Creative Writing: Open ended Compositions"
+                }
+              ]
+            },
+            {
+              "sid": "G4T11B3",
+              "code": "3",
+              "name": "Etiquette",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Pronunciation and Vocabulary: Polite Words and Phrases"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Intensive Reading: Skimming and Scanning"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Language pattern: Enough + Nominal + Infinitive/A lot/a lot of…"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Handwriting: Legibility and Neatness"
+                }
+              ]
+            },
+            {
+              "sid": "G4T11B4",
+              "code": "4",
+              "name": "Accidents: First Aid",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Intensive Reading: Visuals (2 lessons)"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Guided Composition: Friendly Letter/SMS"
+                }
+              ]
+            },
+            {
+              "sid": "G4T11B5",
+              "code": "5",
+              "name": "Nutrition: Balanced Diet",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Extensive Reading: Independent Reading"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Word Class: Regular and Irregular Adjectives"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G4T12B1",
+              "code": "1",
+              "name": "Nyumbani",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Matamshi Bora"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Kuandika Insha ya Wasifu"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Nomino"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Vitenzi"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Vivumishi"
+                }
+              ]
+            },
+            {
+              "sid": "G4T12B2",
+              "code": "2",
+              "name": "Sherehe Za Familia",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Maamkuzi na Maagano"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Matumizi ya Kamusi"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Insha ya Masimulizi"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Vielezi"
+                }
+              ]
+            },
+            {
+              "sid": "G4T12B3",
+              "code": "3",
+              "name": "Adabu",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Kusoma kwa Ufasaha"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Kuandika kwa kutumia tarakilishi"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Viunganishi"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Vihusishi"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Vihisishi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G4T13B1",
+              "code": "1",
+              "name": "Creation",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Self-Awareness"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Thoughts and Feelings"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Making Choices"
+                },
+                {
+                  "code": "1.4",
+                  "name": "My Family"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Relationships within the Family"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Attributes of God"
+                }
+              ]
+            },
+            {
+              "sid": "G4T13B2",
+              "code": "2",
+              "name": "The Holy Bible",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "The Inspired Word of God"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Zacchaeus the Tax Collector"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Balaam's Donkey"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Samson Kills a Lion"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Joseph Interprets a Dream"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Bible Patriarchs (Abraham)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G4T14B1",
+              "code": "1",
+              "name": "Living Things and Their Environment",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Plants"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Animals"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Human Digestive System"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G4T15B1",
+              "code": "1",
+              "name": "Conservation of Resources",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Soil Conservation"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Water Conservation"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Fuel Conservation"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Conserving Wild Animals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G4T16B1",
+              "code": "1",
+              "name": "Natural and Historic Built Environments",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Compass Direction"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Location and Size of the County"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Physical Features in the County"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Seasons in the County"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Historic Built Environments in the County"
+                }
+              ]
+            },
+            {
+              "sid": "G4T16B2",
+              "code": "2",
+              "name": "People and Population",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Inter-dependence of People"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Population Distribution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G4T17B1",
+              "code": "1",
+              "name": "Creating and Executing",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Percussion Musical Instruments (Drawing)"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Netball"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Painting and Montage"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Rhythm"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Melody"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 2": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G4T20B2",
+              "code": "2",
+              "name": "Measurement",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Length"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Area"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Volume"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Capacity"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Mass"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Time"
+                },
+                {
+                  "code": "2.7",
+                  "name": "Money"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G4T21B6",
+              "code": "6",
+              "name": "Internet: Email",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Pronunciation and Vocabulary: Stress and Intonation"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Intensive Reading: Dialogue"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Creativity Writing : Pictorial Compositions"
+                }
+              ]
+            },
+            {
+              "sid": "G4T21B7",
+              "code": "7",
+              "name": "Technology: Cyber Safety",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Pronunciation and Vocabulary: Interactive Listening"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Extensive Reading: Narratives/Poems"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Tense: Present and Past progressive Aspect"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Punctuation: Full Stop/Capital Letters"
+                }
+              ]
+            },
+            {
+              "sid": "G4T21B8",
+              "code": "8",
+              "name": "The Farm",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Reading Fluency"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Word Classes: Contracted Verb Forms / Positive/Negative Statements"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Creative Writing: Narrative Compositions"
+                }
+              ]
+            },
+            {
+              "sid": "G4T21B9",
+              "code": "9",
+              "name": "Hiv And Aids",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Pronunciation and Vocabulary: Speaking Fluency"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Intensive Reading: Narratives"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Word Class: Adverbs"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Punctuation: Comma, Question Marks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G4T22B4",
+              "code": "4",
+              "name": "Ajali",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Maneno ya Upole"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Kuandika Barua ya Kirafiki"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Ngeli ya A-WA"
+                }
+              ]
+            },
+            {
+              "sid": "G4T22B5",
+              "code": "5",
+              "name": "Lishe",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Methali"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Kuandika Insha ya Maelezo"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Ngeli ya U-I"
+                }
+              ]
+            },
+            {
+              "sid": "G4T22B6",
+              "code": "6",
+              "name": "Mtandao",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Kujieleza kwa Ufasaha"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Kusoma kwa Kina"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Kuandika Insha ya Wasifu"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Ngeli ya LI- YA"
+                }
+              ]
+            },
+            {
+              "sid": "G4T22B7",
+              "code": "7",
+              "name": "Teknolojia Na Usalama Wa Mtandao",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Nahau"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Kusoma kwa Mapana Matini"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Insha ya Maelezo"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Ngeli ya KI-VI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G4T23B3",
+              "code": "3",
+              "name": "The Life of Jesus Christ",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "The Annunciation"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Birth of John the Baptist"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Healing of Blind Bartimaeus"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Healing the 10 Lepers"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Jesus Raises a Widow's Son"
+                },
+                {
+                  "code": "3.6",
+                  "name": "Forgiveness"
+                },
+                {
+                  "code": "3.7",
+                  "name": "Helping the Needy"
+                },
+                {
+                  "code": "3.8",
+                  "name": "Parable of the Lost Coin"
+                },
+                {
+                  "code": "3.9",
+                  "name": "Parable of the Mustard Seed"
+                },
+                {
+                  "code": "3.10",
+                  "name": "Nicodemus' Encounter with Jesus Christ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G4T24B2",
+              "code": "2",
+              "name": "Matter",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Properties of Matter"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Management of Solid Waste"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Water Conservation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G4T25B2",
+              "code": "2",
+              "name": "Food Production Processes",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Direct Sowing of Tiny Seeds"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Growing Fruits"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Uses of Domestic Animals"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Balanced Meal"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Cooking Food"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G4T26B3",
+              "code": "3",
+              "name": "Social Organisations",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Aspects of Traditional Culture in the County"
+                },
+                {
+                  "code": "3.2",
+                  "name": "The School"
+                }
+              ]
+            },
+            {
+              "sid": "G4T26B4",
+              "code": "4",
+              "name": "Resources and Economic Activities",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Economic Activities in the County"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Industries in the County"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Enterprise Project at School"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G4T27B2",
+              "code": "2",
+              "name": "Performing and Displaying",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Athletics"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Gymnastics"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Songs"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Photography"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Descant Recorder"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Swimming (Optional)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 3": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G4T30B3",
+              "code": "3",
+              "name": "Geometry",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Position and Direction"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Angles"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Plane Figures"
+                }
+              ]
+            },
+            {
+              "sid": "G4T30B4",
+              "code": "4",
+              "name": "Data Handling",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Data"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G4T31B10",
+              "code": "10",
+              "name": "Hygiene And Sanitation",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Pronunciation and Vocabulary: Interactive Listening/Turn Taking/Riddles"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Intensive Reading: Factual Texts"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Word Class: Conjunctions"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Creative Writing: Descriptive Compositions"
+                }
+              ]
+            },
+            {
+              "sid": "G4T31B11",
+              "code": "11",
+              "name": "Sports: My Favourite Game",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Pronunciation and Vocabulary: Listening Fluency"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Intensive Reading: Reading with Technology"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Language Patterns: Interrogatives"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Spelling: Commonly Misspelt Words"
+                }
+              ]
+            },
+            {
+              "sid": "G4T31B12",
+              "code": "12",
+              "name": "Clean Environment",
+              "subs": [
+                {
+                  "code": "12.1",
+                  "name": "Pronunciation and Vocabulary: Speaking Fluency (3 lessons)"
+                },
+                {
+                  "code": "12.2",
+                  "name": "Aspect: Present and Past Perfect"
+                },
+                {
+                  "code": "12.3",
+                  "name": "Guided Composition: Personal Diary"
+                }
+              ]
+            },
+            {
+              "sid": "G4T31B13",
+              "code": "13",
+              "name": "Money",
+              "subs": [
+                {
+                  "code": "13.1",
+                  "name": "Pronunciation and Listening Vocabulary: Intensive Listening Pattern/Riddles/Tongue Twisters"
+                },
+                {
+                  "code": "13.2",
+                  "name": "Extensive Reading: Newspapers/Magazines"
+                },
+                {
+                  "code": "13.3",
+                  "name": "Word Class: Prepositions"
+                },
+                {
+                  "code": "13.4",
+                  "name": "Spelling: Double Word Consonants"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G4T32B8",
+              "code": "8",
+              "name": "Shambani",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Visawe"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Kuandika Insha ya Masimulizi"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Mnyambuliko wa Vitenzi"
+                }
+              ]
+            },
+            {
+              "sid": "G4T32B9",
+              "code": "9",
+              "name": "Vvu Na Ukimwi",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Mazungumzo"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Insha ya Maelezo"
+                }
+              ]
+            },
+            {
+              "sid": "G4T32B10",
+              "code": "10",
+              "name": "Usafi Wa Mazingira",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Tashbihi"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Kuandika Insha ya Masimulizi"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Nyakati na hali"
+                }
+              ]
+            },
+            {
+              "sid": "G4T32B11",
+              "code": "11",
+              "name": "Michezo",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Kujieleza kwa ufasaha Masimulizi"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Kusoma kwa Ufasaha"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Kuandika Barua ya Kirafiki"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Ukanushaji"
+                },
+                {
+                  "code": "11.5",
+                  "name": "Ukubwa wa Nomino"
+                },
+                {
+                  "code": "11.6",
+                  "name": "Udogo wa nomino"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G4T33B4",
+              "code": "4",
+              "name": "Christian Values",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Trust"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Truthfulness"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Obedience"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Love"
+                },
+                {
+                  "code": "4.5",
+                  "name": "Responsibility"
+                },
+                {
+                  "code": "4.6",
+                  "name": "Holiness"
+                }
+              ]
+            },
+            {
+              "sid": "G4T33B5",
+              "code": "5",
+              "name": "The Church",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "House of God"
+                },
+                {
+                  "code": "5.2",
+                  "name": "The Early Church"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Standing Firm in Faith"
+                },
+                {
+                  "code": "5.4",
+                  "name": "The Lord's Prayer"
+                },
+                {
+                  "code": "5.5",
+                  "name": "Fruit of the Holy Spirit"
+                },
+                {
+                  "code": "5.6",
+                  "name": "Self-Control"
+                }
+              ]
+            },
+            {
+              "sid": "G4T33B6",
+              "code": "6",
+              "name": "Morality and Social Media",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Use of Social Media"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G4T34B3",
+              "code": "3",
+              "name": "Force and Energy",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Force and Its Effects"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Light"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Heat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G4T35B3",
+              "code": "3",
+              "name": "Hygiene Practices",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Personal Hygiene"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Domestic Hygiene"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Cleaning Personal Protective Equipment"
+                }
+              ]
+            },
+            {
+              "sid": "G4T35B4",
+              "code": "4",
+              "name": "Production Techniques",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Making Tacking Stitches"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G4T36B5",
+              "code": "5",
+              "name": "Citizenship and Governance in Kenya",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Good Citizenship in School"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Peace"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Child Rights"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Democracy in School"
+                },
+                {
+                  "code": "5.5",
+                  "name": "Children's Government in School"
+                },
+                {
+                  "code": "5.6",
+                  "name": "Community Leadership"
+                },
+                {
+                  "code": "5.7",
+                  "name": "The County Governments in Kenya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G4T37B3",
+              "code": "3",
+              "name": "Appreciation in Creative Arts",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Analysis of Creative Arts Works"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Grade 5": {
+    "terms": {
+      "Term 1": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G5T10B1",
+              "code": "1",
+              "name": "Numbers",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Whole Numbers"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Addition"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Subtraction"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Multiplication"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Division"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Fractions"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Decimals"
+                },
+                {
+                  "code": "1.8",
+                  "name": "Simple Equations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G5T11B1",
+              "code": "1",
+              "name": "Child Rights and Responsibilities",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Pronunciation and Listening Comprehension"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Extensive Reading: Use of Reference Materials"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Word Classes: Demonstrative Determiners"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Functional Writing: Filling Forms"
+                }
+              ]
+            },
+            {
+              "sid": "G5T11B2",
+              "code": "2",
+              "name": "National Celebrations",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Pronunciation and Vocabulary: Listening Comprehension: Dialogue"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Intensive Reading: Oral Narrative (about 400 words) Poem of about 5 Stanzas"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Word Class: Collective Nouns/ Reflexive Pronouns"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Creative Writing: Open ended Compositions"
+                }
+              ]
+            },
+            {
+              "sid": "G5T11B3",
+              "code": "3",
+              "name": "Etiquette - Table Manners",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Pronunciation and Vocabulary: Polite Words Phrases and Expressions"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Intensive Reading Narrative of about 400 words)"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Language Pattern: Use of too…to/for and Use of Must/Should with an Adverb/Adverbial"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Mechanics of Writing: Handwriting: Joined/ (cursive script)"
+                }
+              ]
+            },
+            {
+              "sid": "G5T11B4",
+              "code": "4",
+              "name": "Road Accidents - Prevention",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Pronunciation and Vocabulary: Word Stress (contrast between, nouns/verbs, verb /adjectives)"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Intensive Reading: Comprehension ( Visuals)"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Word Class: Possessive Pronouns"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Functional Writing : A Reply to a Friendly Letter"
+                }
+              ]
+            },
+            {
+              "sid": "G5T11B5",
+              "code": "5",
+              "name": "Traditional Foods",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Listening Comprehension: Sounds/ Adjectives"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Extensive Reading: Fiction and Non Fiction Materials"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Word Class: Comparatives and Superlatives forms of Regular and Irregular adjectives."
+                },
+                {
+                  "code": "5.4",
+                  "name": "Word Class: Order of Adjectives"
+                },
+                {
+                  "code": "5.5",
+                  "name": "Creative Writing: Narrative Compositions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G5T12B1",
+              "code": "1",
+              "name": "Mapishi",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Matamshi Bora"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Insha ya wasifu"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Nomino za Pekee"
+                }
+              ]
+            },
+            {
+              "sid": "G5T12B2",
+              "code": "2",
+              "name": "Huduma Ya Kwanza",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Maamkuzi na Maagano"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Kusoma kwa Kina"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Insha ya masimulizi"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Nomino za Wingi"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Vitenzi-jina"
+                }
+              ]
+            },
+            {
+              "sid": "G5T12B3",
+              "code": "3",
+              "name": "Mapambo",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Matamshi Bora"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Kusoma kwa Ufasaha"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Kuandika kwa Tarakilishi"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Nomino za Makundi"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Nomino Ambata"
+                },
+                {
+                  "code": "3.6",
+                  "name": "Nomino za dhahania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G5T13B1",
+              "code": "1",
+              "name": "Living Things and their Environment",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Classification of plants"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Invertebrates"
+                },
+                {
+                  "code": "1.3",
+                  "name": "The Human Breathing system"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G5T14B1",
+              "code": "1",
+              "name": "Conservation Of Resources",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Soil Conservation"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Water Conservation"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Conserving Wild Animals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G5T15B1",
+              "code": "1",
+              "name": "Natural and Historic Built Environments",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Natural and the Built Environments Elements of a Map"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Elements of a Map"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Location, Position and Size of Kenya"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Main physical features in Kenya"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Weather and Climate"
+                },
+                {
+                  "code": "1.6",
+                  "name": "The Built Environments"
+                }
+              ]
+            },
+            {
+              "sid": "G5T15B2",
+              "code": "2",
+              "name": "People and Social Organisation",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Language Groups in Kenya"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Population distribution in Kenya"
+                },
+                {
+                  "code": "2.3",
+                  "name": "African Traditional Education"
+                },
+                {
+                  "code": "2.4",
+                  "name": "School administration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G5T16B1",
+              "code": "1",
+              "name": "Creating and Executing",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Wind Musical instruments (Drawing)"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Football"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Rhythm"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Painting and Mosaic"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Melody"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Rounders"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G5T17B1",
+              "code": "1",
+              "name": "Creation",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "My Purpose (Talents and Abilities)"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Work"
+                },
+                {
+                  "code": "1.3",
+                  "name": "The Fall of Man"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Family Unity"
+                }
+              ]
+            },
+            {
+              "sid": "G5T17B2",
+              "code": "2",
+              "name": "The Bible",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "The Bible as a Guide"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Bible Stories"
+                },
+                {
+                  "code": "2.3",
+                  "name": "King Solomon the Wise Ruler"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Noah and his sons"
+                },
+                {
+                  "code": "2.5",
+                  "name": "A hand writes on the Wall"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Mount Carmel Contest"
+                },
+                {
+                  "code": "2.7",
+                  "name": "God’s Protection"
+                },
+                {
+                  "code": "2.8",
+                  "name": "The call of Moses"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 2": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G5T20B2",
+              "code": "2",
+              "name": "Measurement",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Length"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Area"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Volume"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Capacity"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Mass"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Time"
+                },
+                {
+                  "code": "2.7",
+                  "name": "Money"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G5T21B6",
+              "code": "6",
+              "name": "Jobs and Occupations",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Pronunciation and Vocabulary: Stress and Intonation"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Word Class: Determiners: Quantifiers: Few/ a few, little/ a little, a lot of/ lots of, each, all, enough, most, least"
+                }
+              ]
+            },
+            {
+              "sid": "G5T21B7",
+              "code": "7",
+              "name": "Learning Through Technology",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Extensive Reading: Fiction and Non"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Tense: Future Time using will/shall"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Mechanics of Writing: Punctuation"
+                }
+              ]
+            },
+            {
+              "sid": "G5T21B8",
+              "code": "8",
+              "name": "The Farm - Cash Crops",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Pronunciation and Vocabulary: Oral Narrative Featuring Proverbs and Sayings"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Sentences: Use of Double Imperatives"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Sentences: Question Tags on the Verb to be"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Creative Writing: Narrative Composition (120 -160 words)"
+                },
+                {
+                  "code": "8.5",
+                  "name": "Creative Writing: Similes and Proverbs"
+                }
+              ]
+            },
+            {
+              "sid": "G5T21B9",
+              "code": "9",
+              "name": "Communicable Diseases",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Speaking Fluency: Narrative of about 150 words"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Intensive Reading: Descriptive Fictional or Non-Fictional Texts (about 400 words)"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Word Class: Adverbs (manner, time, place, frequency)"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Word Class: Use of could, would and how many"
+                },
+                {
+                  "code": "9.5",
+                  "name": "Word Class: How many…could/would"
+                },
+                {
+                  "code": "9.6",
+                  "name": "Mechanics of Writing: Punctuation Marks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G5T22B4",
+              "code": "4",
+              "name": "Saa Na Majira",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Heshima, adabu na vyeo"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Baruapepe"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Ngeli I-ZI"
+                },
+                {
+                  "code": "4.5",
+                  "name": "Ngeli ya I"
+                }
+              ]
+            },
+            {
+              "sid": "G5T22B5",
+              "code": "5",
+              "name": "Kukabiliana Na Umaskini",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Methali"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Insha ya Maelezo"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Ngeli ya U"
+                }
+              ]
+            },
+            {
+              "sid": "G5T22B6",
+              "code": "6",
+              "name": "Maadili",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Ushairi"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Insha za Wasifu"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Ngeli ya U"
+                }
+              ]
+            },
+            {
+              "sid": "G5T22B7",
+              "code": "7",
+              "name": "Elimu Ya Mazingira",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Nahau"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Kuandika Insha"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Ngeli ya KU-KU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G5T23B2",
+              "code": "2",
+              "name": "Matter",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Mixtures"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Water Pollution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G5T24B2",
+              "code": "2",
+              "name": "Food Production Processes",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Growing Vegetables"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Uses of Domestic Animals"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Preservation of Cereals and Pulses"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Food Nutrients"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Dry Fat Frying and Deep Frying"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G5T25B3",
+              "code": "3",
+              "name": "Resources and Economic Activities",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Resources and Economic Activities in Eastern Africa"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Resources in Kenya"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Mining in Kenya"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Fishing in Kenya"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Wildlife and Tourism in Kenya"
+                },
+                {
+                  "code": "3.6",
+                  "name": "Development of Transport"
+                },
+                {
+                  "code": "3.7",
+                  "name": "Development of Communication Traditional Forms"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": []
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G5T27B3",
+              "code": "3",
+              "name": "The Life of Jesus Christ",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "John the Baptist"
+                },
+                {
+                  "code": "3.2",
+                  "name": "The Baptism of Jesus Christ"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Calming the Storm"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Feeding the Four Thousand"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Healing the Paralysed Man"
+                },
+                {
+                  "code": "3.6",
+                  "name": "Parable of the Lost Sheep"
+                },
+                {
+                  "code": "3.7",
+                  "name": "Sermon on the Mount"
+                },
+                {
+                  "code": "3.8",
+                  "name": "The Rich Young Ruler"
+                },
+                {
+                  "code": "3.9",
+                  "name": "A Friend at Midnight"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 3": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G5T30B3",
+              "code": "3",
+              "name": "Geometry",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Lines"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Angles"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Three Dimension (3-D)"
+                }
+              ]
+            },
+            {
+              "sid": "G5T30B4",
+              "code": "4",
+              "name": "Data Handling",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Data Representation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G5T31B10",
+              "code": "10",
+              "name": "Leisure Time Activities",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Pronunciation and Vocabulary: Interactive Listening"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Choral verse"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Narrative in Dialogue Format (Conversation Narrative)"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Intensive Reading Factual Texts of about 400 Words"
+                },
+                {
+                  "code": "10.5",
+                  "name": "Word Class: Conjunctions"
+                },
+                {
+                  "code": "10.6",
+                  "name": "Creative Writing: Descriptive Composition (120 -160 words)"
+                }
+              ]
+            },
+            {
+              "sid": "G5T31B11",
+              "code": "11",
+              "name": "Sports - Appreciating Talents",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Pronunciation and Vocabulary: Listening Fluency"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Pronunciation and Vocabulary: Non-verbal cues"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Intensive Reading: Reading with Technology"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Use of Interrogatives"
+                },
+                {
+                  "code": "11.5",
+                  "name": "Spelling: Commonly Misspelt Words"
+                },
+                {
+                  "code": "11.6",
+                  "name": "Spelling: Homophones"
+                },
+                {
+                  "code": "11.7",
+                  "name": "Spelling: Homonyms"
+                }
+              ]
+            },
+            {
+              "sid": "G5T31B12",
+              "code": "12",
+              "name": "Environmental Pollution",
+              "subs": [
+                {
+                  "code": "12.1",
+                  "name": "Intensive Reading: Poems, Songs and Tongue Twisters"
+                },
+                {
+                  "code": "12.2",
+                  "name": "Word Class: Nouns (which only occur in singular or plural)"
+                },
+                {
+                  "code": "12.3",
+                  "name": "Functional Writing: Appointment Diary"
+                },
+                {
+                  "code": "12.4",
+                  "name": "Functional Writing: Journal (3 days)"
+                }
+              ]
+            },
+            {
+              "sid": "G5T31B13",
+              "code": "13",
+              "name": "Money - Savings and Banking",
+              "subs": [
+                {
+                  "code": "13.1",
+                  "name": "Pronunciation and Vocabulary: Intensive Listening (Dialogue containing similes)"
+                },
+                {
+                  "code": "13.2",
+                  "name": "Extensive Reading Variety of texts such as Newspapers, magazines, class readers and poems"
+                },
+                {
+                  "code": "13.3",
+                  "name": "Word Class: Prepositions"
+                },
+                {
+                  "code": "13.4",
+                  "name": "Spelling: Homophones"
+                },
+                {
+                  "code": "13.5",
+                  "name": "Spelling: Words with double consonants"
+                },
+                {
+                  "code": "13.6",
+                  "name": "Spelling: Words with double vowels"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G5T32B8",
+              "code": "8",
+              "name": "Ndege Wa Porini",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Visawe"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Insha za masimulizi"
+                }
+              ]
+            },
+            {
+              "sid": "G5T32B9",
+              "code": "9",
+              "name": "Magonjwa",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Mazungumzo ya Kimuktadha"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Insha za Maelezo"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Vinyume vya Vitenzi"
+                }
+              ]
+            },
+            {
+              "sid": "G5T32B10",
+              "code": "10",
+              "name": "Kudhibiti Itikadi Za Kidini Na Za Kijamii",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Tashbihi"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Matini ya Kidijitali"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Nyakati na Hali"
+                }
+              ]
+            },
+            {
+              "sid": "G5T32B11",
+              "code": "11",
+              "name": "Uwekezaji",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Kutoa Masimulizi"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Kusoma kwa Ufasaha"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Ukanushaji"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Ukubwa na udogo wa nomino"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G5T33B3",
+              "code": "3",
+              "name": "Force and Energy",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Floating and Sinking"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Sound Energy"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Heat transfer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G5T34B3",
+              "code": "3",
+              "name": "Hygiene Practices",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Good Grooming Practices"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Home Hygiene"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Laundering Cotton Item"
+                }
+              ]
+            },
+            {
+              "sid": "G5T34B4",
+              "code": "4",
+              "name": "Production Techniques",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Repairing Garments"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Constructing Vertical and Horizontal Garden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G5T35B4",
+              "code": "4",
+              "name": "Political Systems and Governance",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Political Systems Traditional Leaders in Kenya"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Traditional Leaders in Kenya"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Early forms of Government in Kenya"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Citizenship in Kenya"
+                },
+                {
+                  "code": "4.5",
+                  "name": "National Government"
+                }
+              ]
+            },
+            {
+              "sid": "G5T35B5",
+              "code": "5",
+              "name": "Governance",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Governance National Government"
+                },
+                {
+                  "code": "5.2",
+                  "name": "National Unity in Kenya"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Human Rights"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Democracy in Society"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G5T36B2",
+              "code": "2",
+              "name": "Performing and Displaying",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Athletics"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Fabric decoration"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Kenyan Folk Dance"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Puppetry"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Descant Recorder"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Swimming"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G5T37B4",
+              "code": "4",
+              "name": "The Church",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "The Early Church"
+                },
+                {
+                  "code": "4.2",
+                  "name": "The Lords Supper"
+                },
+                {
+                  "code": "4.3",
+                  "name": "The Holy Spirit"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Peter Miraculous Rescue"
+                }
+              ]
+            },
+            {
+              "sid": "G5T37B5",
+              "code": "5",
+              "name": "Christian Living",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Friendship Formation"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Human Sexuality"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Sanctity of Life"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Alcohol, drugs and Substance Abuse"
+                },
+                {
+                  "code": "5.5",
+                  "name": "Social Media"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Grade 6": {
+    "terms": {
+      "Term 1": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G6T10B1",
+              "code": "1",
+              "name": "Numbers",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Whole Numbers"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Multiplication"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Division"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Fractions"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Decimals"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Inequalities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G6T11B1",
+              "code": "1",
+              "name": "Child Labour",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Pronunciation and Listening"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Extensive Reading"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Word Classes"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Guided Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T11B2",
+              "code": "2",
+              "name": "Cultural and Religious Celebrations",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Pronunciation and Listening Comprehension"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Intensive Reading"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Word Classes"
+                }
+              ]
+            },
+            {
+              "sid": "G6T11B3",
+              "code": "3",
+              "name": "Etiquette - Telephone",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Correlative Conjunctions"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Mechanics of Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T11B4",
+              "code": "4",
+              "name": "Emergency Rescue Services",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Word Classes"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Functional Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T11B5",
+              "code": "5",
+              "name": "Our Tourist Attractions",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Extensive Reading"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Adjectives"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Creative Writing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G6T12B1",
+              "code": "1",
+              "name": "Viungo Vya Mwili Vya Ndani",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Matamshi Bora"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Insha ya Wasifu"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Vivumishi vya Sifa"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Vivumishi Viashiria"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Vivumishi Vimilikishi"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Insha za Maelezo"
+                }
+              ]
+            },
+            {
+              "sid": "G6T12B2",
+              "code": "2",
+              "name": "Michezo",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Maamkuzi na Maagano"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Kusoma kwa Kina"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Insha za Masimulizi"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Vivumishi Viulizi"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Kivumishi Kirejeshi (amba-)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G6T13B1",
+              "code": "1",
+              "name": "Living things and their Environment",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Fungi"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Invertebrates"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Human circulatory system"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G6T14B1",
+              "code": "1",
+              "name": "Conservation Of Resources",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Controlling Soil Erosion"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Conserving Water: Seedbeds"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Conserving wild animals: Using Physical Deterrents"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G6T15B1",
+              "code": "1",
+              "name": "Natural",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "Natural and the Built Environments"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Position and Size of Countries in Eastern Africa"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Main physical features in Eastern Africa"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Climatic regions in Eastern Africa"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Vegetation in Eastern Africa"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Historic Built Environments"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G6T16B1",
+              "code": "1",
+              "name": "Creating and Executing",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "String Musical Instruments and"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Painting and Collage"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Volleyball"
+                },
+                {
+                  "code": "1.4",
+                  "name": "Rhythm and Pattern Making"
+                },
+                {
+                  "code": "1.5",
+                  "name": "Weaving"
+                },
+                {
+                  "code": "1.6",
+                  "name": "Gymnastics"
+                },
+                {
+                  "code": "1.7",
+                  "name": "Melody"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G6T17B1",
+              "code": "1",
+              "name": "Creation",
+              "subs": [
+                {
+                  "code": "1.1",
+                  "name": "My purpose"
+                },
+                {
+                  "code": "1.2",
+                  "name": "Marriage and Family"
+                },
+                {
+                  "code": "1.3",
+                  "name": "Leisure"
+                }
+              ]
+            },
+            {
+              "sid": "G6T17B2",
+              "code": "2",
+              "name": "The Bible",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "The Inspired Word of God"
+                },
+                {
+                  "code": "2.2",
+                  "name": "The Ten Commandments"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Samson defeats the Philistines"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Faith in God (Elisha)"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Jacob wrestles an Angel"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 2": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G6T20B2",
+              "code": "2",
+              "name": "Measurement",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Length"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Area"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Capacity"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Mass"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Time"
+                },
+                {
+                  "code": "2.6",
+                  "name": "Money"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G6T21B6",
+              "code": "6",
+              "name": "Jobs and Occupation - Work Ethics",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Intensive Reading"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Phrasal Quantifiers"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Creative Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T21B7",
+              "code": "7",
+              "name": "Technology: Scientific Innovations",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Pronunciation and Interactive Listening"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Extensive Reading"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Tense"
+                },
+                {
+                  "code": "7.4",
+                  "name": "Mechanics of writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T21B8",
+              "code": "8",
+              "name": "The Farm - Animal Safety and Care",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Fluency"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Sentence Patterns"
+                },
+                {
+                  "code": "8.4",
+                  "name": "Creative Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T21B9",
+              "code": "9",
+              "name": "Lifestyle Diseases",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Pronunciation and Speaking: Fluency"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Intensive Reading"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Adverbs"
+                },
+                {
+                  "code": "9.4",
+                  "name": "Mechanics of writing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G6T22B3",
+              "code": "3",
+              "name": "Mahusiano",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Matamshi Bora"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Kusoma kwa Ufasaha"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Kuandika Kwa kutumia Tarakilishi"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Viwakilishi vya Nafsi"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Viwakilishi Viashiria"
+                },
+                {
+                  "code": "3.6",
+                  "name": "Viwakilishi vya Idadi"
+                },
+                {
+                  "code": "3.7",
+                  "name": "Uakifishi"
+                }
+              ]
+            },
+            {
+              "sid": "G6T22B4",
+              "code": "4",
+              "name": "Misimu",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Heshima, Adabu na Vyeo"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Barua Rasmi"
+                }
+              ]
+            },
+            {
+              "sid": "G6T22B5",
+              "code": "5",
+              "name": "Mshikamano Wa Kitaifa",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Methali"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Insha za Maelezo"
+                }
+              ]
+            },
+            {
+              "sid": "G6T22B6",
+              "code": "6",
+              "name": "Usawa Wa Kijinsia",
+              "subs": [
+                {
+                  "code": "6.1",
+                  "name": "Matamshi Bora"
+                },
+                {
+                  "code": "6.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "6.3",
+                  "name": "Insha ya Wasifu"
+                },
+                {
+                  "code": "6.4",
+                  "name": "Ngeli ya I-I"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G6T23B2",
+              "code": "2",
+              "name": "Matter",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Change of state"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Composition of air"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G6T24B2",
+              "code": "2",
+              "name": "Food Production Processes",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Rearing Small Domestic Animals"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Preserving Crop Products: Fruits and Vegetables"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Stewing and Baking Food"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G6T25B2",
+              "code": "2",
+              "name": "People and Social Organisation",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Language groups in Eastern Africa"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Population distribution in Eastern Africa"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Culture and Social Organisation"
+                },
+                {
+                  "code": "2.4",
+                  "name": "School and Community"
+                }
+              ]
+            },
+            {
+              "sid": "G6T25B3",
+              "code": "3",
+              "name": "Resources and Economic Activities",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Resources and Economic Activities in Eastern Africa"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Beef Farming"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Fishing in Eastern Africa"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Transport in Eastern Africa"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Communication in Eastern Africa"
+                },
+                {
+                  "code": "3.6",
+                  "name": "Mining in Eastern Africa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G6T26B2",
+              "code": "2",
+              "name": "Performing and Displaying",
+              "subs": [
+                {
+                  "code": "2.1",
+                  "name": "Athletics"
+                },
+                {
+                  "code": "2.2",
+                  "name": "Descant Recorder"
+                },
+                {
+                  "code": "2.3",
+                  "name": "Indigenous Kenyan Instrumental"
+                },
+                {
+                  "code": "2.4",
+                  "name": "Indigenous Kenyan Craft- Pottery"
+                },
+                {
+                  "code": "2.5",
+                  "name": "Swimming"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G6T27B3",
+              "code": "3",
+              "name": "The Life of Jesus Christ",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "The call of the Disciples"
+                },
+                {
+                  "code": "3.2",
+                  "name": "The Temptations of Jesus Christ"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Miracles of Jesus Christ (The"
+                },
+                {
+                  "code": "3.4",
+                  "name": "Faith in God"
+                },
+                {
+                  "code": "3.5",
+                  "name": "Lazarus is raised from Dead"
+                },
+                {
+                  "code": "3.6",
+                  "name": "The Hidden Treasure"
+                },
+                {
+                  "code": "3.7",
+                  "name": "The Rich Man and Lazarus"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Term 3": [
+        {
+          "name": "Mathematics",
+          "strands": [
+            {
+              "sid": "G6T30B3",
+              "code": "3",
+              "name": "Geometry",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Lines"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Angles"
+                },
+                {
+                  "code": "3.3",
+                  "name": "3-D Objects"
+                }
+              ]
+            },
+            {
+              "sid": "G6T30B4",
+              "code": "4",
+              "name": "Data Handling",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Bar Graphs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "English",
+          "strands": [
+            {
+              "sid": "G6T31B10",
+              "code": "10",
+              "name": "Proper Use of Leisure Time",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Pronunciation and Vocabulary: Interactive Listening"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Intensive Reading"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Conjunctions"
+                },
+                {
+                  "code": "10.4",
+                  "name": "Creative Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T31B11",
+              "code": "11",
+              "name": "Sports - Indoor Games",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Intensive Reading: Digital Stories"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Interrogatives"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Mechanics of writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T31B12",
+              "code": "12",
+              "name": "Environment Conservation",
+              "subs": [
+                {
+                  "code": "12.1",
+                  "name": "Pronunciation and Vocabulary"
+                },
+                {
+                  "code": "12.2",
+                  "name": "Intensive Reading"
+                },
+                {
+                  "code": "12.3",
+                  "name": "Question Tags"
+                },
+                {
+                  "code": "12.4",
+                  "name": "Functional Writing"
+                }
+              ]
+            },
+            {
+              "sid": "G6T31B13",
+              "code": "13",
+              "name": "Money - Trade",
+              "subs": [
+                {
+                  "code": "13.1",
+                  "name": "Pronunciation and Intensive Listening"
+                },
+                {
+                  "code": "13.2",
+                  "name": "Extensive Reading"
+                },
+                {
+                  "code": "13.3",
+                  "name": "Word Classes"
+                },
+                {
+                  "code": "13.4",
+                  "name": "Mechanics of writing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kiswahili",
+          "strands": [
+            {
+              "sid": "G6T32B7",
+              "code": "7",
+              "name": "Majanga Na Jinsi Ya Kuyazuia",
+              "subs": [
+                {
+                  "code": "7.1",
+                  "name": "Nahau"
+                },
+                {
+                  "code": "7.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "7.3",
+                  "name": "Ngeli ya PA-KU-MU (Kipindi 1)"
+                }
+              ]
+            },
+            {
+              "sid": "G6T32B8",
+              "code": "8",
+              "name": "Wanyama Wa Majini",
+              "subs": [
+                {
+                  "code": "8.1",
+                  "name": "Kusoma kwa Ufahamu"
+                },
+                {
+                  "code": "8.2",
+                  "name": "Insha za Masimulizi"
+                },
+                {
+                  "code": "8.3",
+                  "name": "Mnyambuliko wa"
+                }
+              ]
+            },
+            {
+              "sid": "G6T32B9",
+              "code": "9",
+              "name": "Afya Ya Akili",
+              "subs": [
+                {
+                  "code": "9.1",
+                  "name": "Mazungumzo ya Kimuktadha"
+                },
+                {
+                  "code": "9.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "9.3",
+                  "name": "Vinyume vya Vivumishi"
+                }
+              ]
+            },
+            {
+              "sid": "G6T32B10",
+              "code": "10",
+              "name": "Kukabiliana Na Ugaidi",
+              "subs": [
+                {
+                  "code": "10.1",
+                  "name": "Sitiari za Tabia"
+                },
+                {
+                  "code": "10.2",
+                  "name": "Kusoma kwa Mapana"
+                },
+                {
+                  "code": "10.3",
+                  "name": "Insha za Masimulizi"
+                }
+              ]
+            },
+            {
+              "sid": "G6T32B11",
+              "code": "11",
+              "name": "Ushuru",
+              "subs": [
+                {
+                  "code": "11.1",
+                  "name": "Kuzungumza na Kujieleza kwa Ufasaha"
+                },
+                {
+                  "code": "11.2",
+                  "name": "Barua Rasmi"
+                },
+                {
+                  "code": "11.3",
+                  "name": "Ukanushaji wa Maneno"
+                },
+                {
+                  "code": "11.4",
+                  "name": "Ukubwa na Udogo wa Nomino"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Science and Technology",
+          "strands": [
+            {
+              "sid": "G6T33B3",
+              "code": "3",
+              "name": "Force and Energy",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Light"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Levers as simple machines"
+                },
+                {
+                  "code": "3.3",
+                  "name": "Slopes as simple machines"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agriculture and Nutrition",
+          "strands": [
+            {
+              "sid": "G6T34B3",
+              "code": "3",
+              "name": "Hygiene Practices",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Body Cleanliness"
+                },
+                {
+                  "code": "3.2",
+                  "name": "Laundry: Stain Removal"
+                }
+              ]
+            },
+            {
+              "sid": "G6T34B4",
+              "code": "4",
+              "name": "Production Techniques",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Crocheting of PPEs"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Constructing Moist Bed Garden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Studies",
+          "strands": [
+            {
+              "sid": "G6T35B4",
+              "code": "4",
+              "name": "Political Systems and Governance",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "Political Systems Traditional Forms of Government -operations Citizenship Human Rights"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Traditional Forms of Government"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Citizenship"
+                },
+                {
+                  "code": "4.4",
+                  "name": "Human rights"
+                }
+              ]
+            },
+            {
+              "sid": "G6T35B5",
+              "code": "5",
+              "name": "Governance",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Peace and Conflict Resolution"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Government Revenue and Expenditure"
+                },
+                {
+                  "code": "5.3",
+                  "name": "The Preamble of the Constitution of Kenya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "strands": [
+            {
+              "sid": "G6T36B3",
+              "code": "3",
+              "name": "Appreciation in Creative Arts",
+              "subs": [
+                {
+                  "code": "3.1",
+                  "name": "Analysis of Creative Arts works"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian Religious Education",
+          "strands": [
+            {
+              "sid": "G6T37B4",
+              "code": "4",
+              "name": "The Church",
+              "subs": [
+                {
+                  "code": "4.1",
+                  "name": "The Apostles’ Creed"
+                },
+                {
+                  "code": "4.2",
+                  "name": "Standing Firm in Faith"
+                },
+                {
+                  "code": "4.3",
+                  "name": "Church Unity"
+                }
+              ]
+            },
+            {
+              "sid": "G6T37B5",
+              "code": "5",
+              "name": "Christian Living Today",
+              "subs": [
+                {
+                  "code": "5.1",
+                  "name": "Friendship Formation"
+                },
+                {
+                  "code": "5.2",
+                  "name": "Human Sexuality"
+                },
+                {
+                  "code": "5.3",
+                  "name": "Sanctity of Life"
+                },
+                {
+                  "code": "5.4",
+                  "name": "Alcohol, drug and Substance Abuse"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Little Roses Academy",
+  "description": "Mobile security portal and school management platform for Little Roses Academy, Nakuru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
